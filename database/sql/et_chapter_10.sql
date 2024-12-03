@@ -1,0 +1,4 @@
+-- Inserções para Ester 10
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (12868, 'nvi', 'Ester', 'et', 10, 1, 'O rei Xerxes impôs tributos a todo o império, até sobre as distantes regiões costeiras.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (12869, 'nvi', 'Ester', 'et', 10, 2, 'Todos os seus atos de força e poder, bem como o relato completo da grandeza de Mardoqueu, a quem o rei dera autoridade, estão registrados no livro das crônicas dos reis da Média e da Pérsia');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (12870, 'nvi', 'Ester', 'et', 10, 3, 'O judeu Mardoqueu foi o segundo na hierarquia, depois do rei Xerxes. Era homem importante entre os judeus e foi muito amado por todos os judeus, pois trabalhou para o bem do seu povo e promoveu o bem-estar de todos eles.');

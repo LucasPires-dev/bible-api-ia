@@ -1,0 +1,23 @@
+-- Inserções para Lamentações de Jeremias 5
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (20444, 'nvi', 'Lamentações de Jeremias', 'lm', 5, 1, 'Lembra-te, Senhor, do que tem acontecido conosco; olha e vê a nossa desgraça.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (20445, 'nvi', 'Lamentações de Jeremias', 'lm', 5, 2, 'Nossa herança foi entregue aos estranhos, nossas casas, aos estrangeiros.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (20446, 'nvi', 'Lamentações de Jeremias', 'lm', 5, 3, 'Somos órfãos de pai, nossas mães são viúvas.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (20447, 'nvi', 'Lamentações de Jeremias', 'lm', 5, 4, 'Temos que comprar a água que bebemos; nossa lenha, só conseguimos pagando.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (20448, 'nvi', 'Lamentações de Jeremias', 'lm', 5, 5, 'Aqueles que nos perseguem estão bem próximos; estamos exaustos e não temos como descansar.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (20449, 'nvi', 'Lamentações de Jeremias', 'lm', 5, 6, 'Submetemo-nos ao Egito e à Assíria a fim de conseguirmos pão.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (20450, 'nvi', 'Lamentações de Jeremias', 'lm', 5, 7, 'Nossos pais pecaram e já não existem mais, e nós levamos o castigo pelos seus pecados.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (20451, 'nvi', 'Lamentações de Jeremias', 'lm', 5, 8, 'Escravos dominam sobre nós, e não há quem possa livrar-nos das suas mãos.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (20452, 'nvi', 'Lamentações de Jeremias', 'lm', 5, 9, 'Conseguimos pão arriscando as nossas vidas enfrentando a espada do deserto.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (20453, 'nvi', 'Lamentações de Jeremias', 'lm', 5, 10, 'Nossa pele está quente como um forno, febril de tanta fome.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (20454, 'nvi', 'Lamentações de Jeremias', 'lm', 5, 11, 'As mulheres têm sido violentadas em Sião, e as virgens, nas cidades de Judá.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (20455, 'nvi', 'Lamentações de Jeremias', 'lm', 5, 12, 'Os líderes foram pendurados pelas mãos; aos idosos não se mostra nenhum respeito.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (20456, 'nvi', 'Lamentações de Jeremias', 'lm', 5, 13, 'Os jovens trabalham nos moinhos; os meninos cambaleiam sob o fardo de lenha.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (20457, 'nvi', 'Lamentações de Jeremias', 'lm', 5, 14, 'Os líderes já não se reúnem junto às portas da cidade; os jovens cessaram a sua música.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (20458, 'nvi', 'Lamentações de Jeremias', 'lm', 5, 15, 'Dos nossos corações fugiu a alegria; nossas danças se transformaram em lamentos.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (20459, 'nvi', 'Lamentações de Jeremias', 'lm', 5, 16, 'A coroa caiu da nossa cabeça. Ai de nós, porque temos pecado!');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (20460, 'nvi', 'Lamentações de Jeremias', 'lm', 5, 17, 'E por esse motivo o nosso coração desfalece, e os nossos olhos perdem o brilho.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (20461, 'nvi', 'Lamentações de Jeremias', 'lm', 5, 18, 'Tudo porque o monte Sião está deserto, e os chacais perambulam por ele.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (20462, 'nvi', 'Lamentações de Jeremias', 'lm', 5, 19, 'Tu, Senhor, reinas para sempre; teu trono permanece de geração a geração.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (20463, 'nvi', 'Lamentações de Jeremias', 'lm', 5, 20, 'Por que motivo então te esquecerias de nós? Por que haverias de desamparar-nos por tanto tempo?');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (20464, 'nvi', 'Lamentações de Jeremias', 'lm', 5, 21, 'Restaura-nos para ti, Senhor, para que voltemos; renova os nossos dias como os de antigamente,');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (20465, 'nvi', 'Lamentações de Jeremias', 'lm', 5, 22, 'a não ser que já nos tenhas rejeitado completamente e a tua ira contra nós não tenha limite!');

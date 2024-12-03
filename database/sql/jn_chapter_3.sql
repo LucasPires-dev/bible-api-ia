@@ -1,0 +1,11 @@
+-- Inserções para Jonas 3
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (22560, 'nvi', 'Jonas', 'jn', 3, 1, 'A palavra do Senhor veio a Jonas pela segunda vez com esta ordem:');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (22561, 'nvi', 'Jonas', 'jn', 3, 2, '"Vá à grande cidade de Nínive e pregue contra ela a mensagem que eu vou dar a você".');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (22562, 'nvi', 'Jonas', 'jn', 3, 3, 'E Jonas obedeceu à palavra do Senhor e foi para Nínive. Era uma cidade muito grande; demorava-se três dias para percorrê-la.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (22563, 'nvi', 'Jonas', 'jn', 3, 4, 'Jonas entrou na cidade e a percorreu durante um dia, proclamando: "Daqui a quarenta dias Nínive será destruída".');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (22564, 'nvi', 'Jonas', 'jn', 3, 5, 'Os ninivitas creram em Deus. Proclamaram jejum, e todos eles, do maior ao menor, vestiram-se de pano de saco.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (22565, 'nvi', 'Jonas', 'jn', 3, 6, 'Quando as notícias chegaram ao rei de Nínive, ele se levantou do trono, tirou o manto real, vestiu-se de pano de saco e sentou-se sobre cinza.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (22566, 'nvi', 'Jonas', 'jn', 3, 7, 'Então fez uma proclamação em Nínive: "Por decreto do rei e de seus nobres: Não é permitido a nenhum homem ou animal, bois ou ovelhas provar coisa alguma; não comam nem bebam!');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (22567, 'nvi', 'Jonas', 'jn', 3, 8, 'Cubram-se de pano de saco, homens e animais. E todos clamem a Deus com todas as suas forças. Deixem os maus caminhos e a violência.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (22568, 'nvi', 'Jonas', 'jn', 3, 9, 'Talvez Deus se arrependa e abandone a sua ira, e não sejamos destruídos".');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (22569, 'nvi', 'Jonas', 'jn', 3, 10, 'Deus viu o que eles fizeram e como abandonaram os seus maus caminhos. Então Deus se arrependeu e não os destruiu como tinha ameaçado.');

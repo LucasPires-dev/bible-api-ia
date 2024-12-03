@@ -1,0 +1,23 @@
+-- Inserções para Salmos 103
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15551, 'nvi', 'Salmos', 'sl', 103, 1, 'Bendiga ao Senhor a minha alma! Bendiga ao Senhor todo o meu ser!');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15552, 'nvi', 'Salmos', 'sl', 103, 2, 'Bendiga ao Senhor a minha alma! Não esqueça de nenhuma de suas bênçãos!');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15553, 'nvi', 'Salmos', 'sl', 103, 3, 'É ele que perdoa todos os seus pecados e cura todas as suas doenças,');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15554, 'nvi', 'Salmos', 'sl', 103, 4, 'que resgata a sua vida da sepultura e o coroa de bondade e compaixão,');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15555, 'nvi', 'Salmos', 'sl', 103, 5, 'que enche de bens a sua existência, de modo que a sua juventude se renova como a águia.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15556, 'nvi', 'Salmos', 'sl', 103, 6, 'O Senhor faz justiça e defende a causa dos oprimidos.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15557, 'nvi', 'Salmos', 'sl', 103, 7, 'Ele manifestou os seus caminhos a Moisés, os seus feitos aos israelitas.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15558, 'nvi', 'Salmos', 'sl', 103, 8, 'O Senhor é compassivo e misericordioso, mui paciente e cheio de amor.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15559, 'nvi', 'Salmos', 'sl', 103, 9, 'Não acusa sem cessar nem fica ressentido para sempre;');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15560, 'nvi', 'Salmos', 'sl', 103, 10, 'não nos trata conforme os nossos pecados nem nos retribui conforme as nossas iniqüidades.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15561, 'nvi', 'Salmos', 'sl', 103, 11, 'Pois como os céus se elevam acima da terra, assim é grande o seu amor para com os que o temem;');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15562, 'nvi', 'Salmos', 'sl', 103, 12, 'e como o Oriente está longe do Ocidente, assim ele afasta para longe de nós as nossas transgressões.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15563, 'nvi', 'Salmos', 'sl', 103, 13, 'Como um pai tem compaixão de seus filhos, assim o Senhor tem compaixão dos que o temem;');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15564, 'nvi', 'Salmos', 'sl', 103, 14, 'pois ele sabe do que somos formados; lembra-se de que somos pó.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15565, 'nvi', 'Salmos', 'sl', 103, 15, 'A vida do homem é semelhante à relva; ele floresce como a flor do campo,');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15566, 'nvi', 'Salmos', 'sl', 103, 16, 'que se vai quando sopra o vento e nem se sabe mais o lugar que ocupava.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15567, 'nvi', 'Salmos', 'sl', 103, 17, 'Mas o amor leal do Senhor, o seu amor eterno está com os que o temem, e a sua justiça com os filhos dos seus filhos,');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15568, 'nvi', 'Salmos', 'sl', 103, 18, 'com os que guardam a sua aliança e se lembram de obedecer aos seus preceitos.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15569, 'nvi', 'Salmos', 'sl', 103, 19, 'O Senhor estabeleceu o seu trono nos céus, e como rei domina sobre tudo o que existe.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15570, 'nvi', 'Salmos', 'sl', 103, 20, 'Bendigam ao Senhor, vocês, seus anjos poderosos, que obedecem à sua palavra.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15571, 'nvi', 'Salmos', 'sl', 103, 21, 'Bendigam ao Senhor, todos os seus exércitos, vocês, seus servos, que cumprem a sua vontade.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15572, 'nvi', 'Salmos', 'sl', 103, 22, 'Bendigam ao Senhor, todas as suas obras em todos os lugares do seu domínio. Bendiga ao Senhor a minha alma!');

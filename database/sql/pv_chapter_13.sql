@@ -1,0 +1,26 @@
+-- Inserções para Provérbios 13
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16749, 'nvi', 'Provérbios', 'pv', 13, 1, 'O filho sábio acolhe a instrução do pai, mas o zombador não ouve a repreensão.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16750, 'nvi', 'Provérbios', 'pv', 13, 2, 'Do fruto de sua boca o homem desfruta coisas boas, mas o que os infiéis desejam é violência.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16751, 'nvi', 'Provérbios', 'pv', 13, 3, 'Quem guarda a sua boca guarda a sua vida, mas quem fala demais acaba se arruinando.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16752, 'nvi', 'Provérbios', 'pv', 13, 4, 'O preguiçoso deseja e nada consegue, mas os desejos do diligente são amplamente satisfeitos.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16753, 'nvi', 'Provérbios', 'pv', 13, 5, 'Os justos odeiam o que é falso, mas os ímpios trazem vergonha e desgraça.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16754, 'nvi', 'Provérbios', 'pv', 13, 6, 'A retidão protege o homem íntegro, mas a impiedade derruba o pecador.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16755, 'nvi', 'Provérbios', 'pv', 13, 7, 'Alguns fingem que são ricos e nada têm; outros fingem que são pobres, e têm grande riqueza.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16756, 'nvi', 'Provérbios', 'pv', 13, 8, 'As riquezas de um homem servem de resgate para a sua vida, mas o pobre nunca recebe ameaças.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16757, 'nvi', 'Provérbios', 'pv', 13, 9, 'A luz dos justos resplandece esplendidamente, mas a lâmpada dos ímpios apaga-se.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16758, 'nvi', 'Provérbios', 'pv', 13, 10, 'O orgulho só gera discussões, mas a sabedoria está com os que tomam conselho.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16759, 'nvi', 'Provérbios', 'pv', 13, 11, 'O dinheiro ganho com desonestidade diminuirá, mas quem o ajunta aos poucos terá cada vez mais.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16760, 'nvi', 'Provérbios', 'pv', 13, 12, 'A esperança que se retarda deixa o coração doente, mas o anseio satisfeito é árvore de vida.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16761, 'nvi', 'Provérbios', 'pv', 13, 13, 'Quem zomba da instrução pagará por ela, mas aquele que respeita o mandamento será recompensado.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16762, 'nvi', 'Provérbios', 'pv', 13, 14, 'O ensino dos sábios é fonte de vida, e afasta o homem das armadilhas da morte.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16763, 'nvi', 'Provérbios', 'pv', 13, 15, 'O bom entendimento conquista favor, mas o caminho do infiel é áspero.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16764, 'nvi', 'Provérbios', 'pv', 13, 16, 'Todo homem prudente age com base no conhecimento, mas o tolo expõe a sua insensatez.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16765, 'nvi', 'Provérbios', 'pv', 13, 17, 'O mensageiro ímpio cai em dificuldade, mas o enviado digno de confiança traz a cura.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16766, 'nvi', 'Provérbios', 'pv', 13, 18, 'Quem despreza a disciplina cai na pobreza e na vergonha, mas quem acolhe a repreensão recebe tratamento honroso.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16767, 'nvi', 'Provérbios', 'pv', 13, 19, 'O anseio satisfeito agrada a alma, mas o tolo detesta afastar-se do mal.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16768, 'nvi', 'Provérbios', 'pv', 13, 20, 'Aquele que anda com os sábios será cada vez mais sábio, mas o companheiro dos tolos acabará mal.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16769, 'nvi', 'Provérbios', 'pv', 13, 21, 'O infortúnio persegue o pecador, mas a prosperidade é a recompensa do justo.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16770, 'nvi', 'Provérbios', 'pv', 13, 22, 'O homem bom deixa herança para os filhos de seus filhos, mas a riqueza do pecador é armazenada para os justos.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16771, 'nvi', 'Provérbios', 'pv', 13, 23, 'A lavoura do pobre produz alimento com fartura, mas por falta de justiça ele o perde.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16772, 'nvi', 'Provérbios', 'pv', 13, 24, 'Quem se nega a castigar seu filho não o ama; quem o ama não hesita em discipliná-lo.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16773, 'nvi', 'Provérbios', 'pv', 13, 25, 'O justo come até satisfazer o apetite, mas os ímpios permanecem famintos.');

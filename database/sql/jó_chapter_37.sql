@@ -1,0 +1,25 @@
+-- Inserções para Jó 37
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13771, 'nvi', 'Jó', 'jó', 37, 1, '"Diante disso o meu coração bate aceleradamente e salta do seu lugar.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13772, 'nvi', 'Jó', 'jó', 37, 2, 'Ouça! Escute o estrondo da sua voz, o trovejar da sua boca.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13773, 'nvi', 'Jó', 'jó', 37, 3, 'Ele solta os seus relâmpagos por baixo de toda a extensão do céu e os manda para os confins da terra.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13774, 'nvi', 'Jó', 'jó', 37, 4, 'Depois vem o som do seu grande estrondo: ele troveja com sua majestosa voz. Quando a sua voz ressoa, nada o faz recuar.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13775, 'nvi', 'Jó', 'jó', 37, 5, 'A voz de Deus troveja maravilhosamente; ele faz coisas grandiosas, acima do nosso entendimento.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13776, 'nvi', 'Jó', 'jó', 37, 6, 'Ele diz à neve: ‘Caia sobre a terra’, e à chuva: ‘Seja um forte aguaceiro’.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13777, 'nvi', 'Jó', 'jó', 37, 7, 'Ele paralisa o trabalho de cada homem, a fim de que todos os que ele criou conheçam a sua obra.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13778, 'nvi', 'Jó', 'jó', 37, 8, 'Os animais vão para os seus esconderijos; e ficam nas suas tocas.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13779, 'nvi', 'Jó', 'jó', 37, 9, 'A tempestade sai da sua câmara, e dos ventos vem o frio.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13780, 'nvi', 'Jó', 'jó', 37, 10, 'O sopro de Deus produz gelo, e as vastas águas se congelam.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13781, 'nvi', 'Jó', 'jó', 37, 11, 'Também carrega de umidade as nuvens, e entre elas espalha os seus relâmpagos.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13782, 'nvi', 'Jó', 'jó', 37, 12, 'Ele as faz girar, circulando sobre a superfície de toda a terra, para fazerem tudo o que ele lhes ordenar.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13783, 'nvi', 'Jó', 'jó', 37, 13, 'Ele traz as nuvens, ora para castigar os homens, ora para regar a sua terra e mostrar o seu amor.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13784, 'nvi', 'Jó', 'jó', 37, 14, '"Escute isto, Jó; pare e reflita nas maravilhas de Deus.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13785, 'nvi', 'Jó', 'jó', 37, 15, 'Acaso você sabe como Deus comanda as nuvens e faz brilhar os seus relâmpagos?');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13786, 'nvi', 'Jó', 'jó', 37, 16, 'Você sabe como ficam suspensas as nuvens, essas maravilhas daquele que tem perfeito conhecimento?');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13787, 'nvi', 'Jó', 'jó', 37, 17, 'Você, que em sua roupa desfalece de calor quando a terra fica amortecida sob o vento sul,');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13788, 'nvi', 'Jó', 'jó', 37, 18, 'pode ajudá-lo a estender os céus, duros como espelho de bronze?');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13789, 'nvi', 'Jó', 'jó', 37, 19, '"Diga-nos o que devemos dizer a ele; não podemos elaborar a nossa defesa por causa das nossas trevas.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13790, 'nvi', 'Jó', 'jó', 37, 20, 'Deve-se dizer-lhe o que lhe quero falar? Quem pediria para ser devorado?');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13791, 'nvi', 'Jó', 'jó', 37, 21, 'Ninguém pode olhar para o fulgor do sol nos céus, depois que o vento os clareia.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13792, 'nvi', 'Jó', 'jó', 37, 22, 'Do norte vem luz dourada; Deus vem em temível majestade.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13793, 'nvi', 'Jó', 'jó', 37, 23, 'Fora de nosso alcance está o Todo-poderoso, exaltado em poder; mas, em sua justiça e retidão, não oprime ninguém.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13794, 'nvi', 'Jó', 'jó', 37, 24, 'Por isso os homens o temem; não dá ele atenção a todos os sábios de coração? "');

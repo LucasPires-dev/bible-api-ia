@@ -1,0 +1,6 @@
+-- Inserções para Oséias 3
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (22130, 'nvi', 'Oséias', 'os', 3, 1, 'O Senhor me disse: "Vá, trate novamente com amor sua mulher, apesar de ela ser amada por outro e ser adúltera. Ame-a como o Senhor ama os israelitas, apesar de eles se voltarem para outros deuses e de amarem os bolos sagrados de uvas passas".');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (22131, 'nvi', 'Oséias', 'os', 3, 2, 'Por isso eu a comprei por cento e oitenta gramas de prata e um barril e meio de cevada.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (22132, 'nvi', 'Oséias', 'os', 3, 3, 'E eu lhe disse: Você viverá comigo por muitos dias; você não será mais prostituta nem será de nenhum outro homem, e eu viverei com você.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (22133, 'nvi', 'Oséias', 'os', 3, 4, 'Pois os israelitas viverão muitos dias sem rei e sem líder, sem sacrifício e sem colunas sagradas, sem colete sacerdotal e sem ídolos da família.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (22134, 'nvi', 'Oséias', 'os', 3, 5, 'Depois disso os israelitas voltarão e buscarão o Senhor, o seu Deus, e Davi, seu rei. Virão tremendo atrás do Senhor e das suas bênçãos, nos últimos dias.');

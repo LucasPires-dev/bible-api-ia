@@ -1,0 +1,24 @@
+-- Inserções para Salmos 74
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15050, 'nvi', 'Salmos', 'sl', 74, 1, 'Por que nos rejeitaste definitivamente, ó Deus? Por que se acende a tua ira contra as ovelhas da tua pastagem?');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15051, 'nvi', 'Salmos', 'sl', 74, 2, 'Lembra-te do povo que adquiriste em tempos passados, da tribo da tua herança, que resgataste, do monte Sião, onde habitaste.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15052, 'nvi', 'Salmos', 'sl', 74, 3, 'Volta os teus passos para aquelas ruínas irreparáveis, para toda a destruição que o inimigo causou em teu santuário.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15053, 'nvi', 'Salmos', 'sl', 74, 4, 'Teus adversários gritaram triunfantes bem no local onde te encontravas conosco, e hastearam suas bandeiras em sinal de vitória.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15054, 'nvi', 'Salmos', 'sl', 74, 5, 'Pareciam homens armados com machados invadindo um bosque cerrado.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15055, 'nvi', 'Salmos', 'sl', 74, 6, 'Com seus machados e machadinhas esmigalharam todos os revestimentos de madeira esculpida.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15056, 'nvi', 'Salmos', 'sl', 74, 7, 'Atearam fogo ao teu santuário; profanaram o lugar da habitação do teu nome.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15057, 'nvi', 'Salmos', 'sl', 74, 8, 'Disseram no coração: "Vamos acabar com eles! " Queimaram todos os santuários do país.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15058, 'nvi', 'Salmos', 'sl', 74, 9, 'Já não vemos sinais miraculosos; não há mais profetas, e nenhum de nós sabe até quando isso continuará.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15059, 'nvi', 'Salmos', 'sl', 74, 10, 'Até quando o adversário irá zombar, ó Deus? Será que o inimigo blasfemará o teu nome para sempre?');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15060, 'nvi', 'Salmos', 'sl', 74, 11, 'Por que reténs a tua mão, a tua mão direita? Não fiques de braços cruzados! Destrói-os!');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15061, 'nvi', 'Salmos', 'sl', 74, 12, 'Mas tu, ó Deus, és o meu rei desde a antigüidade; trazes salvação sobre a terra.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15062, 'nvi', 'Salmos', 'sl', 74, 13, 'Tu dividiste o mar pelo teu poder; quebraste as cabeças das serpentes das águas.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15063, 'nvi', 'Salmos', 'sl', 74, 14, 'Esmagaste as cabeças do Leviatã e o deste por comida às criaturas do deserto.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15064, 'nvi', 'Salmos', 'sl', 74, 15, 'Tu abriste fontes e regatos; secaste rios perenes.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15065, 'nvi', 'Salmos', 'sl', 74, 16, 'O dia é teu, e tua também é a noite; estabeleceste o sol e a lua.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15066, 'nvi', 'Salmos', 'sl', 74, 17, 'Determinaste todas as fronteiras da terra; fizeste o verão e o inverno.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15067, 'nvi', 'Salmos', 'sl', 74, 18, 'Lembra-te de como o inimigo tem zombado de ti, ó Senhor, como os insensatos têm blasfemado o teu nome.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15068, 'nvi', 'Salmos', 'sl', 74, 19, 'Não entregues a vida da tua pomba aos animais selvagens; não te esqueças para sempre da vida do teu povo indefeso.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15069, 'nvi', 'Salmos', 'sl', 74, 20, 'Dá atenção à tua aliança, porque de antros de violência se enchem os lugares sombrios do país.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15070, 'nvi', 'Salmos', 'sl', 74, 21, 'Não deixes que o oprimido se retire humilhado! Faze que o pobre e o necessitado louvem o teu nome.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15071, 'nvi', 'Salmos', 'sl', 74, 22, 'Levanta-te, ó Deus, e defende a tua causa; lembra-te de como os insensatos zombam de ti sem cessar.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15072, 'nvi', 'Salmos', 'sl', 74, 23, 'Não ignores a gritaria dos teus adversários, o crescente tumulto dos teus inimigos.');

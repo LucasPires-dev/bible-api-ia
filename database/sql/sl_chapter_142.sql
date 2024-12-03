@@ -1,0 +1,8 @@
+-- Inserções para Salmos 142
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16288, 'nvi', 'Salmos', 'sl', 142, 1, 'Em alta voz clamo ao Senhor; elevo a minha voz ao Senhor, suplicando misericórdia.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16289, 'nvi', 'Salmos', 'sl', 142, 2, 'Derramo diante dele o meu lamento; a ele apresento a minha angústia.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16290, 'nvi', 'Salmos', 'sl', 142, 3, 'Quando o meu espírito se desanima, és tu quem conhece o caminho que devo seguir. Na vereda por onde ando esconderam uma armadilha contra mim.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16291, 'nvi', 'Salmos', 'sl', 142, 4, 'Olha para a minha direita e vê; ninguém se preocupa comigo. Não tenho abrigo seguro; ninguém se importa com a minha vida.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16292, 'nvi', 'Salmos', 'sl', 142, 5, 'Clamo a ti, Senhor, e digo: "Tu és o meu refúgio; és tudo o que tenho que na terra dos viventes.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16293, 'nvi', 'Salmos', 'sl', 142, 6, 'Dá atenção ao meu clamor, pois estou muito abatido; livra-me dos que me perseguem, pois são mais fortes do que eu.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16294, 'nvi', 'Salmos', 'sl', 142, 7, 'Liberta-me da prisão, e renderei graças ao teu nome. Então os justos se reunirão à minha volta por causa da tua bondade para comigo".');

@@ -1,0 +1,24 @@
+-- Inserções para Jó 27
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13483, 'nvi', 'Jó', 'jó', 27, 1, 'E Jó prosseguiu em seu discurso:');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13484, 'nvi', 'Jó', 'jó', 27, 2, '"Pelo Deus vivo, que me negou justiça, pelo Todo-poderoso, que deu amargura à minha alma,');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13485, 'nvi', 'Jó', 'jó', 27, 3, 'enquanto eu tiver vida em mim, o sopro de Deus em minhas narinas,');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13486, 'nvi', 'Jó', 'jó', 27, 4, 'meus lábios não falarão maldade, e minha língua não proferirá nada que seja falso.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13487, 'nvi', 'Jó', 'jó', 27, 5, 'Nunca darei razão a vocês! Minha integridade não negarei jamais, até à morte.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13488, 'nvi', 'Jó', 'jó', 27, 6, 'Manterei minha retidão, e nunca a deixarei; enquanto eu viver, a minha consciência não me repreenderá.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13489, 'nvi', 'Jó', 'jó', 27, 7, '"Sejam os meus inimigos como os ímpios, e os meus adversários como os injustos!');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13490, 'nvi', 'Jó', 'jó', 27, 8, 'Pois, qual é a esperança do ímpio, quando é eliminado, quando Deus lhe tira a vida?');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13491, 'nvi', 'Jó', 'jó', 27, 9, 'Ouvirá Deus o seu clamor, quando vier sobre ele a aflição?');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13492, 'nvi', 'Jó', 'jó', 27, 10, 'Terá ele prazer no Todo-poderoso? Chamará a Deus a cada instante?');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13493, 'nvi', 'Jó', 'jó', 27, 11, '"Eu os ensinarei sobre o poder de Deus; não esconderei de vocês os caminhos do Todo-poderoso.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13494, 'nvi', 'Jó', 'jó', 27, 12, 'Pois a verdade é que todos vocês já viram isso. Por que então essa conversa sem sentido?');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13495, 'nvi', 'Jó', 'jó', 27, 13, '"Este é o destino que Deus determinou para o ímpio, a herança que o mau recebe do Todo-poderoso:');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13496, 'nvi', 'Jó', 'jó', 27, 14, 'Por mais filhos que tenha, o destino deles é a espada; sua prole jamais terá comida suficiente.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13497, 'nvi', 'Jó', 'jó', 27, 15, 'A epidemia sepultará aqueles que lhe sobreviverem, e as suas viúvas não chorarão por eles.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13498, 'nvi', 'Jó', 'jó', 27, 16, 'Ainda que ele acumule prata como pó e roupas como barro, amontoe;');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13499, 'nvi', 'Jó', 'jó', 27, 17, 'o que ele armazenar ficará para os justos, e os inocentes dividirão sua prata.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13500, 'nvi', 'Jó', 'jó', 27, 18, 'A casa que ele constrói é como casulo de traça, como cabana feita pela sentinela.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13501, 'nvi', 'Jó', 'jó', 27, 19, 'Rico ele se deita, mas nunca mais será! Quando abre os olhos, tudo se foi.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13502, 'nvi', 'Jó', 'jó', 27, 20, 'Pavores vêm sobre ele como uma enchente; de noite a tempestade o leva de roldão.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13503, 'nvi', 'Jó', 'jó', 27, 21, 'O vento oriental o leva, e ele desaparece; arranca-o do seu lugar.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13504, 'nvi', 'Jó', 'jó', 27, 22, 'Atira-se contra ele sem piedade, enquanto ele foge às pressas do seu poder.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13505, 'nvi', 'Jó', 'jó', 27, 23, 'Bate palmas contra ele e com assobios o expele do seu lugar.');

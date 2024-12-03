@@ -1,0 +1,24 @@
+-- Inserções para Provérbios 5
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16519, 'nvi', 'Provérbios', 'pv', 5, 1, 'Meu filho, dê atenção à minha sabedoria, incline os ouvidos para perceber o meu discernimento.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16520, 'nvi', 'Provérbios', 'pv', 5, 2, 'Assim você manterá o bom senso, e os seus lábios guardarão o conhecimento.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16521, 'nvi', 'Provérbios', 'pv', 5, 3, 'Pois os lábios da mulher imoral destilam mel; sua voz é mais suave que o azeite,');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16522, 'nvi', 'Provérbios', 'pv', 5, 4, 'mas no final é amarga como fel, afiada como uma espada de dois gumes.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16523, 'nvi', 'Provérbios', 'pv', 5, 5, 'Os seus pés descem para a morte; os seus passos conduzem diretamente para a sepultura.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16524, 'nvi', 'Provérbios', 'pv', 5, 6, 'Ela nem percebe que anda por caminhos tortuosos, e não enxerga a vereda da vida.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16525, 'nvi', 'Provérbios', 'pv', 5, 7, 'Agora, então, meu filho, ouça-me; não se desvie das minhas palavras.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16526, 'nvi', 'Provérbios', 'pv', 5, 8, 'Fique longe dessa mulher; não se aproxime da porta de sua casa,');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16527, 'nvi', 'Provérbios', 'pv', 5, 9, 'para que você não entregue aos outros o seu vigor nem a sua vida a algum homem cruel,');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16528, 'nvi', 'Provérbios', 'pv', 5, 10, 'para que estranhos não se fartem do seu trabalho e outros não se enriqueçam à custa do seu esforço.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16529, 'nvi', 'Provérbios', 'pv', 5, 11, 'No final da vida você gemerá, com sua carne e seu corpo desgastados.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16530, 'nvi', 'Provérbios', 'pv', 5, 12, 'Você dirá: "Como odiei a disciplina! Como o meu coração rejeitou a repreensão!');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16531, 'nvi', 'Provérbios', 'pv', 5, 13, 'Não ouvi os meus mestres nem escutei os que me ensinavam.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16532, 'nvi', 'Provérbios', 'pv', 5, 14, 'Cheguei à beira da ruína completa, à vista de toda a comunidade".');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16533, 'nvi', 'Provérbios', 'pv', 5, 15, 'Beba das águas da sua cisterna, das águas que brotam do seu próprio poço.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16534, 'nvi', 'Provérbios', 'pv', 5, 16, 'Por que deixar que as suas fontes transbordem pelas ruas, e os teus ribeiros pelas praças?');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16535, 'nvi', 'Provérbios', 'pv', 5, 17, 'Que elas sejam exclusivamente suas, nunca repartidas com estranhos.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16536, 'nvi', 'Provérbios', 'pv', 5, 18, 'Seja bendita a sua fonte! Alegre-se com a esposa da sua juventude.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16537, 'nvi', 'Provérbios', 'pv', 5, 19, 'Gazela amorosa, corça graciosa; que os seios de sua esposa sempre o fartem de prazer, e sempre o embriaguem os carinhos dela.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16538, 'nvi', 'Provérbios', 'pv', 5, 20, 'Por que, meu filho, ser desencaminhado pela mulher imoral? Por que abraçar o seio de uma leviana?');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16539, 'nvi', 'Provérbios', 'pv', 5, 21, 'O Senhor vê os caminhos do homem e examina todos os seus passos.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16540, 'nvi', 'Provérbios', 'pv', 5, 22, 'As maldades do ímpio o prendem; ele se torna prisioneiro das cordas do seu pecado.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16541, 'nvi', 'Provérbios', 'pv', 5, 23, 'Certamente morrerá por falta de disciplina; andará cambaleando por causa da sua insensatez.');

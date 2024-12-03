@@ -1,0 +1,20 @@
+-- Inserções para Salmos 51
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14693, 'nvi', 'Salmos', 'sl', 51, 1, 'Tem misericórdia de mim, ó Deus, por teu amor; por tua grande compaixão apaga as minhas transgressões.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14694, 'nvi', 'Salmos', 'sl', 51, 2, 'Lava-me de toda a minha culpa e purifica-me do meu pecado.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14695, 'nvi', 'Salmos', 'sl', 51, 3, 'Pois eu mesmo reconheço as minhas transgressões, e o meu pecado sempre me persegue.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14696, 'nvi', 'Salmos', 'sl', 51, 4, 'Contra ti, só contra ti, pequei e fiz o que tu reprovas, de modo que justa é a tua sentença e tens razão em condenar-me.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14697, 'nvi', 'Salmos', 'sl', 51, 5, 'Sei que sou pecador desde que nasci, sim, desde que me concebeu minha mãe.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14698, 'nvi', 'Salmos', 'sl', 51, 6, 'Sei que desejas a verdade no íntimo; e no coração me ensinas a sabedoria.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14699, 'nvi', 'Salmos', 'sl', 51, 7, 'Purifica-me com hissopo, e ficarei puro; lava-me, e mais branco do que a neve serei.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14700, 'nvi', 'Salmos', 'sl', 51, 8, 'Faze-me ouvir de novo júbilo e alegria; e os ossos que esmagaste exultarão.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14701, 'nvi', 'Salmos', 'sl', 51, 9, 'Esconde o rosto dos meus pecados e apaga todas as minhas iniqüidades.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14702, 'nvi', 'Salmos', 'sl', 51, 10, 'Cria em mim um coração puro, ó Deus, e renova dentro de mim um espírito estável.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14703, 'nvi', 'Salmos', 'sl', 51, 11, 'Não me expulses da tua presença, nem tires de mim o teu Santo Espírito.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14704, 'nvi', 'Salmos', 'sl', 51, 12, 'Devolve-me a alegria da tua salvação e sustenta-me com um espírito pronto a obedecer.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14705, 'nvi', 'Salmos', 'sl', 51, 13, 'Então ensinarei os teus caminhos aos transgressores, para que os pecadores se voltem para ti.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14706, 'nvi', 'Salmos', 'sl', 51, 14, 'Livra-me da culpa dos crimes de sangue, ó Deus, Deus da minha salvação! E a minha língua aclamará à tua justiça.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14707, 'nvi', 'Salmos', 'sl', 51, 15, 'Ó Senhor, dá palavras aos meus lábios, e a minha boca anunciará o teu louvor.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14708, 'nvi', 'Salmos', 'sl', 51, 16, 'Não te deleitas em sacrifícios nem te agradas em holocaustos, se não eu os traria.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14709, 'nvi', 'Salmos', 'sl', 51, 17, 'Os sacrifícios que agradam a Deus são um espírito quebrantado; um coração quebrantado e contrito, ó Deus, não desprezarás.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14710, 'nvi', 'Salmos', 'sl', 51, 18, 'Por tua boa vontade faze Sião prosperar; ergue os muros de Jerusalém.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14711, 'nvi', 'Salmos', 'sl', 51, 19, 'Então te agradarás dos sacrifícios sinceros, das ofertas queimadas e dos holocaustos; e novilhos serão oferecidos sobre o teu altar.');

@@ -1,0 +1,24 @@
+-- Inserções para Salmos 50
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14670, 'nvi', 'Salmos', 'sl', 50, 1, 'Fala o Senhor, o Deus supremo; convoca toda a terra, do nascente ao poente.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14671, 'nvi', 'Salmos', 'sl', 50, 2, 'Desde Sião, perfeita em beleza, Deus resplandece.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14672, 'nvi', 'Salmos', 'sl', 50, 3, 'Nosso Deus vem! Certamente não ficará calado! À sua frente vai um fogo devorador, e, ao seu redor, uma violenta tempestade.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14673, 'nvi', 'Salmos', 'sl', 50, 4, 'Ele convoca os altos céus e a terra, para o julgamento do seu povo:');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14674, 'nvi', 'Salmos', 'sl', 50, 5, '"Ajuntem os que me são fiéis, que, mediante sacrifício, fizeram aliança comigo".');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14675, 'nvi', 'Salmos', 'sl', 50, 6, 'E os céus proclamam a sua justiça, pois o próprio Deus é o juiz. Pausa');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14676, 'nvi', 'Salmos', 'sl', 50, 7, '"Ouça, meu povo, pois eu falarei; vou testemunhar contra você, Israel: eu sou Deus, o seu Deus.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14677, 'nvi', 'Salmos', 'sl', 50, 8, 'Não o acuso pelos seus sacrifícios, nem pelos holocaustos, que você sempre me oferece.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14678, 'nvi', 'Salmos', 'sl', 50, 9, 'Não tenho necessidade de nenhum novilho dos seus estábulos, nem dos bodes dos seus currais,');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14679, 'nvi', 'Salmos', 'sl', 50, 10, 'pois todos os animais da floresta são meus, como são as cabeças de gado aos milhares nas colinas.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14680, 'nvi', 'Salmos', 'sl', 50, 11, 'Conheço todas as aves dos montes, e cuido das criaturas do campo.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14681, 'nvi', 'Salmos', 'sl', 50, 12, 'Se eu tivesse fome, precisaria dizer a você? Pois o mundo é meu, e tudo o que nele existe.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14682, 'nvi', 'Salmos', 'sl', 50, 13, 'Acaso como carne de touros ou bebo sangue de bodes?');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14683, 'nvi', 'Salmos', 'sl', 50, 14, 'Ofereça a Deus em sacrifício a sua gratidão, cumpra os seus votos para com o Altíssimo,');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14684, 'nvi', 'Salmos', 'sl', 50, 15, 'e clame a mim no dia da angústia; eu o livrarei, e você me honrará. "');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14685, 'nvi', 'Salmos', 'sl', 50, 16, 'Mas ao ímpio Deus diz: "Que direito você tem de recitar as minhas leis ou de ficar repetindo a minha aliança?');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14686, 'nvi', 'Salmos', 'sl', 50, 17, 'Pois você odeia a minha disciplina e dá as costas às minhas palavras!');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14687, 'nvi', 'Salmos', 'sl', 50, 18, 'Você vê um ladrão, e já se torna seu cúmplice, e com adúlteros se mistura.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14688, 'nvi', 'Salmos', 'sl', 50, 19, 'Sua boca está cheia de maldade e a sua língua formula a fraude.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14689, 'nvi', 'Salmos', 'sl', 50, 20, 'Deliberadamente você fala contra o seu irmão e calunia o filho de sua própria mãe.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14690, 'nvi', 'Salmos', 'sl', 50, 21, 'Ficaria eu calado diante de tudo o que você tem feito? Você pensa que eu sou como você? Mas agora eu o acusarei diretamente, sem omitir coisa alguma.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14691, 'nvi', 'Salmos', 'sl', 50, 22, '"Considerem isto, vocês que se esquecem de Deus; caso contrário os despedaçarei, sem que ninguém os livre.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14692, 'nvi', 'Salmos', 'sl', 50, 23, 'Quem me oferece sua gratidão como sacrifício, honra-me, e eu mostrarei a salvação de Deus ao que anda nos meus caminhos. "');

@@ -1,0 +1,12 @@
+-- Inserções para Salmos 32
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14357, 'nvi', 'Salmos', 'sl', 32, 1, 'Como é feliz aquele que tem suas transgressões perdoadas e seus pecados apagados!');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14358, 'nvi', 'Salmos', 'sl', 32, 2, 'Como é feliz aquele a quem o Senhor não atribui culpa e em quem não há hipocrisia!');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14359, 'nvi', 'Salmos', 'sl', 32, 3, 'Enquanto escondi os meus pecados, o meu corpo definhava de tanto gemer.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14360, 'nvi', 'Salmos', 'sl', 32, 4, 'Pois de dia e de noite a tua mão pesava sobre mim; minha força foi se esgotando como em tempo de seca. Pausa');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14361, 'nvi', 'Salmos', 'sl', 32, 5, 'Então reconheci diante de ti o meu pecado e não encobri as minhas culpas. Eu disse: "Confessarei as minhas transgressões ao Senhor", e tu perdoaste a culpa do meu pecado. Pausa');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14362, 'nvi', 'Salmos', 'sl', 32, 6, 'Portanto, que todos os que são fiéis orem a ti enquanto podes ser encontrado; quando as muitas águas se levantarem, elas não os atingirão.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14363, 'nvi', 'Salmos', 'sl', 32, 7, 'Tu és o meu abrigo; tu me preservarás das angústias e me cercarás de canções de livramento. Pausa');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14364, 'nvi', 'Salmos', 'sl', 32, 8, 'Eu o instruirei e o ensinarei no caminho que você deve seguir; eu o aconselharei e cuidarei de você.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14365, 'nvi', 'Salmos', 'sl', 32, 9, 'Não sejam como o cavalo ou o burro, que não têm entendimento mas precisam ser controlados com freios e rédeas, caso contrário não obedecem.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14366, 'nvi', 'Salmos', 'sl', 32, 10, 'Muitas são as dores dos ímpios, mas a bondade do Senhor protege quem nele confia.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14367, 'nvi', 'Salmos', 'sl', 32, 11, 'Alegrem-se no Senhor e exultem, vocês que são justos! Cantem de alegria, todos vocês que são retos de coração!');

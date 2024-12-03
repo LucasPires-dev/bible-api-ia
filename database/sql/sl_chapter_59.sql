@@ -1,0 +1,18 @@
+-- Inserções para Salmos 59
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14792, 'nvi', 'Salmos', 'sl', 59, 1, 'Livra-me dos meus inimigos, ó Deus; põe-me fora do alcance dos meus agressores.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14793, 'nvi', 'Salmos', 'sl', 59, 2, 'Livra-me dos que praticam o mal e salva-me dos assassinos.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14794, 'nvi', 'Salmos', 'sl', 59, 3, 'Vê como ficam à minha espreita! Homens cruéis conspiram contra mim, sem que eu tenha cometido qualquer delito ou pecado, ó Senhor.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14795, 'nvi', 'Salmos', 'sl', 59, 4, 'Mesmo que de nada eu tenha culpa, eles se preparam às pressas para atacar-me. Levanta-te para ajudar-me; olha para a situação em que me encontro!');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14796, 'nvi', 'Salmos', 'sl', 59, 5, 'Ó Senhor, Deus dos Exércitos, ó Deus de Israel! Desperta para castigar todas as nações; não tenhas misericórdia dos traidores perversos. Pausa');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14797, 'nvi', 'Salmos', 'sl', 59, 6, 'Eles voltam ao cair da tarde, rosnando como cães e rondando a cidade.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14798, 'nvi', 'Salmos', 'sl', 59, 7, 'Vê que ameaças saem de suas bocas; seus lábios são como espadas, e dizem: "Quem nos ouvirá? "');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14799, 'nvi', 'Salmos', 'sl', 59, 8, 'Mas tu, Senhor, vais rir deles; caçoarás de todas aquelas nações.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14800, 'nvi', 'Salmos', 'sl', 59, 9, 'Ó tu, minha força, por ti vou aguardar; tu, ó Deus, és o meu alto refúgio.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14801, 'nvi', 'Salmos', 'sl', 59, 10, 'O meu Deus fiel virá ao meu encontro e permitirá que eu triunfe sobre os meus inimigos.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14802, 'nvi', 'Salmos', 'sl', 59, 11, 'Mas não os mates, ó Senhor, nosso escudo, se não, o meu povo o esquecerá. Em teu poder faze-os vaguearem, e abate-os.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14803, 'nvi', 'Salmos', 'sl', 59, 12, 'Pelos pecados de suas bocas, pelas palavras de seus lábios, sejam apanhados em seu orgulho. Pelas maldições e mentiras que pronunciam,');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14804, 'nvi', 'Salmos', 'sl', 59, 13, 'consome-os em tua ira, consome-os até que não mais existam. Então se saberá até os confins da terra que Deus governa Jacó. Pausa');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14805, 'nvi', 'Salmos', 'sl', 59, 14, 'Eles voltam ao cair da tarde, rosnando como cães, e rondando a cidade.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14806, 'nvi', 'Salmos', 'sl', 59, 15, 'À procura de comida perambulam e, se não ficam satisfeitos, uivam.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14807, 'nvi', 'Salmos', 'sl', 59, 16, 'Mas eu cantarei louvores à tua força, de manhã louvarei a tua fidelidade; pois tu és o meu alto refúgio, abrigo seguro nos tempos difíceis.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14808, 'nvi', 'Salmos', 'sl', 59, 17, 'Ó minha força, canto louvores a ti; tu és, ó Deus, o meu alto refúgio, o Deus que me ama.');

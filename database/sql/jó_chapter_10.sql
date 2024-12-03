@@ -1,0 +1,23 @@
+-- Inserções para Jó 10
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13088, 'nvi', 'Jó', 'jó', 10, 1, '"Minha vida só me dá desgosto; por isso darei vazão à minha queixa e de alma amargurada me expressarei.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13089, 'nvi', 'Jó', 'jó', 10, 2, 'Direi a Deus: Não me condenes, revela-me que acusações tens contra mim.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13090, 'nvi', 'Jó', 'jó', 10, 3, 'Tens prazer em oprimir-me, em rejeitar a obra de tuas mãos, enquanto sorris para o plano dos ímpios?');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13091, 'nvi', 'Jó', 'jó', 10, 4, 'Acaso tens olhos de carne? Enxergas como os mortais?');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13092, 'nvi', 'Jó', 'jó', 10, 5, 'Teus dias são como os de qualquer mortal? Os anos de tua vida são como os do homem?');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13093, 'nvi', 'Jó', 'jó', 10, 6, 'Pois investigas a minha iniqüidade e vasculhas o meu pecado,');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13094, 'nvi', 'Jó', 'jó', 10, 7, 'embora saibas que não sou culpado e que ninguém pode livrar-me das tuas mãos.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13095, 'nvi', 'Jó', 'jó', 10, 8, '"Foram as tuas mãos que me formaram e me fizeram. Irás agora voltar-te e destruir-me?');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13096, 'nvi', 'Jó', 'jó', 10, 9, 'Lembra-te de que me moldaste como o barro, e agora me farás voltar ao pó?');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13097, 'nvi', 'Jó', 'jó', 10, 10, 'Acaso não me despejaste como leite e não me coalhaste como queijo?');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13098, 'nvi', 'Jó', 'jó', 10, 11, 'Não me vestiste de pele e carne e não me juntaste com ossos e tendões?');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13099, 'nvi', 'Jó', 'jó', 10, 12, 'Deste-me vida e foste bondoso para comigo, e na tua providência cuidaste do meu espírito.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13100, 'nvi', 'Jó', 'jó', 10, 13, '"Mas algo escondeste em teu coração, e bem sei que és tu:');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13101, 'nvi', 'Jó', 'jó', 10, 14, 'Se eu pecasse, me estarias observando e não deixarias sem punição a minha ofensa.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13102, 'nvi', 'Jó', 'jó', 10, 15, 'Se eu fosse culpado, ai de mim! Mesmo sendo inocente, não posso erguer a cabeça, pois estou dominado pela vergonha e mergulhado na minha aflição.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13103, 'nvi', 'Jó', 'jó', 10, 16, 'Se mantenho a cabeça erguida, ficas à minha espreita como um leão, e de novo manifestas contra mim o teu poder tremendo.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13104, 'nvi', 'Jó', 'jó', 10, 17, 'Trazes novas testemunhas contra mim e contra mim aumentas a tua ira; teus exércitos atacam-me, em batalhões sucessivos.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13105, 'nvi', 'Jó', 'jó', 10, 18, '"Então, por que me fizeste sair do ventre? Eu preferia ter morrido antes que pudesse ser visto.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13106, 'nvi', 'Jó', 'jó', 10, 19, 'Se tão-somente eu jamais tivesse existido, ou fosse levado direto do ventre para a sepultura!');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13107, 'nvi', 'Jó', 'jó', 10, 20, 'Já estariam no fim os meus poucos dias? Afasta-te de mim, para que eu tenha um instante de alegria,');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13108, 'nvi', 'Jó', 'jó', 10, 21, 'antes que eu vá para o lugar do qual não há retorno, para a terra de sombras e densas trevas,');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13109, 'nvi', 'Jó', 'jó', 10, 22, 'para a terra tenebrosa como a noite, terra de trevas e de caos, onde até mesmo a luz é trevas".');

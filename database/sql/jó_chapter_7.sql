@@ -1,0 +1,22 @@
+-- Inserções para Jó 7
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13010, 'nvi', 'Jó', 'jó', 7, 1, '"Não é pesado o labor do homem na terra? Seus dias não são como os de um assalariado?');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13011, 'nvi', 'Jó', 'jó', 7, 2, 'Como o escravo que anseia pelas sombras do entardecer, ou como o assalariado que espera ansioso pelo pagamento,');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13012, 'nvi', 'Jó', 'jó', 7, 3, 'assim me deram meses de ilusão, e noites de desgraça me foram destinadas.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13013, 'nvi', 'Jó', 'jó', 7, 4, 'Quando me deito, fico pensando: ‘Quanto vai demorar para eu me levantar? ’ A noite se arrasta, e eu fico me virando na cama até o amanhecer.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13014, 'nvi', 'Jó', 'jó', 7, 5, 'Meu corpo está coberto de vermes e cascas de ferida, minha pele está rachada e vertendo pus.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13015, 'nvi', 'Jó', 'jó', 7, 6, '"Meus dias correm mais depressa que a lançadeira do tecelão, e chegam ao fim sem nenhuma esperança.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13016, 'nvi', 'Jó', 'jó', 7, 7, 'Lembra-te, ó Deus, de que a minha vida não passa de um sopro; meus olhos jamais tornarão a ver a felicidade.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13017, 'nvi', 'Jó', 'jó', 7, 8, 'Os que agora me vêem, nunca mais me verão; puseste o teu olhar em mim, e já não existo.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13018, 'nvi', 'Jó', 'jó', 7, 9, 'Assim como a nuvem esvai-se e desaparece, assim quem desce à sepultura não volta.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13019, 'nvi', 'Jó', 'jó', 7, 10, 'Nunca mais voltará ao seu lar; a sua habitação não mais o conhecerá.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13020, 'nvi', 'Jó', 'jó', 7, 11, '"Por isso não me calo; na aflição do meu espírito me desabafarei, na amargura da minha alma farei as minhas queixas.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13021, 'nvi', 'Jó', 'jó', 7, 12, 'Sou eu o mar, ou o monstro das profundezas, para que me ponhas sob guarda?');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13022, 'nvi', 'Jó', 'jó', 7, 13, 'Quando penso que a minha cama me consolará e que o meu leito aliviará a minha queixa,');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13023, 'nvi', 'Jó', 'jó', 7, 14, 'mesmo aí me assustas com sonhos e me aterrorizas com visões.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13024, 'nvi', 'Jó', 'jó', 7, 15, 'Prefiro ser estrangulado e morrer do que sofrer assim;');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13025, 'nvi', 'Jó', 'jó', 7, 16, 'sinto desprezo pela minha vida! Não vou viver para sempre; deixa-me, pois os meus dias não têm sentido.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13026, 'nvi', 'Jó', 'jó', 7, 17, '"Que é o homem, para que lhe dês importância e atenção,');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13027, 'nvi', 'Jó', 'jó', 7, 18, 'para que o examines a cada manhã e o proves a cada instante?');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13028, 'nvi', 'Jó', 'jó', 7, 19, 'Nunca desviarás de mim o teu olhar? Nunca me deixarás a sós, nem por um instante?');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13029, 'nvi', 'Jó', 'jó', 7, 20, 'Se pequei, que mal te causei, ó tu que vigias os homens? Por que me tornaste teu alvo? Acaso tornei-me um fardo para ti?');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13030, 'nvi', 'Jó', 'jó', 7, 21, 'Por que não perdoas as minhas ofensas e não apagas os meus pecados? Pois logo me deitarei no pó; tu me procurarás, mas eu já não existirei".');

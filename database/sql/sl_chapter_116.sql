@@ -1,0 +1,20 @@
+-- Inserções para Salmos 116
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15850, 'nvi', 'Salmos', 'sl', 116, 1, 'Eu amo o Senhor, porque ele me ouviu quando lhe fiz a minha súplica.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15851, 'nvi', 'Salmos', 'sl', 116, 2, 'Ele inclinou os seus ouvidos para mim; eu o invocarei toda a minha vida.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15852, 'nvi', 'Salmos', 'sl', 116, 3, 'As cordas da morte me envolveram, as angústias do Sheol vieram sobre mim; aflição e tristeza me dominaram.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15853, 'nvi', 'Salmos', 'sl', 116, 4, 'Então clamei pelo nome do Senhor: "Livra-me, Senhor! "');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15854, 'nvi', 'Salmos', 'sl', 116, 5, 'O Senhor é misericordioso e justo; o nosso Deus é compassivo.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15855, 'nvi', 'Salmos', 'sl', 116, 6, 'O Senhor protege os simples; quando eu já estava sem forças, ele me salvou.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15856, 'nvi', 'Salmos', 'sl', 116, 7, 'Retorne ao seu descanso, ó minha alma, porque o Senhor tem sido bom para você!');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15857, 'nvi', 'Salmos', 'sl', 116, 8, 'Pois tu me livraste da morte, os meus olhos, das lágrimas e os meus pés, de tropeçar,');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15858, 'nvi', 'Salmos', 'sl', 116, 9, 'para que eu pudesse andar diante do Senhor na terra dos viventes.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15859, 'nvi', 'Salmos', 'sl', 116, 10, 'Eu cri, ainda que tenha dito: "Estou muito aflito".');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15860, 'nvi', 'Salmos', 'sl', 116, 11, 'Em pânico eu disse: "Ninguém merece confiança".');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15861, 'nvi', 'Salmos', 'sl', 116, 12, 'Como posso retribuir ao Senhor toda a sua bondade para comigo?');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15862, 'nvi', 'Salmos', 'sl', 116, 13, 'Erguerei o cálice da salvação e invocarei o nome do Senhor.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15863, 'nvi', 'Salmos', 'sl', 116, 14, 'Cumprirei para com o Senhor os meus votos, na presença de todo o seu povo.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15864, 'nvi', 'Salmos', 'sl', 116, 15, 'O Senhor vê com pesar a morte de seus fiéis.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15865, 'nvi', 'Salmos', 'sl', 116, 16, 'Senhor, sou teu servo, Sim, sou teu servo, filho da tua serva; livraste-me das minhas correntes.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15866, 'nvi', 'Salmos', 'sl', 116, 17, 'Oferecerei a ti um sacrifício de gratidão e invocarei o nome do Senhor.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15867, 'nvi', 'Salmos', 'sl', 116, 18, 'Cumprirei para com o Senhor os meus votos, na presença de todo o seu povo,');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15868, 'nvi', 'Salmos', 'sl', 116, 19, 'nos pátios da casa do Senhor, no seu interior, ó Jerusalém! Aleluia!');

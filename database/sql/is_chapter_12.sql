@@ -1,0 +1,7 @@
+-- Inserções para Isaías 12
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (17902, 'nvi', 'Isaías', 'is', 12, 1, 'Naquele dia você dirá: "Eu te louvarei, Senhor! Pois estavas irado contra mim, mas a tua ira desviou-se, e tu me consolaste.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (17903, 'nvi', 'Isaías', 'is', 12, 2, 'Deus é a minha salvação; terei confiança e não temerei. O Senhor, sim, o Senhor é a minha força e o meu cântico; ele é a minha salvação! "');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (17904, 'nvi', 'Isaías', 'is', 12, 3, 'Com alegria vocês tirarão água das fontes da salvação.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (17905, 'nvi', 'Isaías', 'is', 12, 4, 'Naquele dia vocês dirão: "Louvem ao Senhor, invoquem o seu nome; anunciem entre as nações os seus feitos, e façam-nas saber que o seu nome é exaltado.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (17906, 'nvi', 'Isaías', 'is', 12, 5, 'Cantem louvores ao Senhor, pois ele tem feito coisas gloriosas, sejam elas conhecidas em todo o mundo.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (17907, 'nvi', 'Isaías', 'is', 12, 6, 'Gritem bem alto e cantem de alegria, habitantes de Sião, pois grande é o Santo de Israel no meio de vocês".');

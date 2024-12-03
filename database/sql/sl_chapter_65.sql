@@ -1,0 +1,14 @@
+-- Inserções para Salmos 65
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14862, 'nvi', 'Salmos', 'sl', 65, 1, 'O louvor te aguarda em Sião, ó Deus; os votos que te fizemos serão cumpridos.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14863, 'nvi', 'Salmos', 'sl', 65, 2, 'Ó tu que ouves a oração, a ti virão todos os homens.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14864, 'nvi', 'Salmos', 'sl', 65, 3, 'Quando os nossos pecados pesavam sobre nós, tu mesmo fizeste propiciação por nossas transgressões.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14865, 'nvi', 'Salmos', 'sl', 65, 4, 'Como são felizes aqueles que escolhes e trazes a ti, para viverem nos teus átrios! Transbordamos de bênçãos da tua casa, do teu santo templo!');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14866, 'nvi', 'Salmos', 'sl', 65, 5, 'Tu nos respondes com temíveis feitos de justiça, ó Deus, nosso Salvador, esperança de todos os confins da terra e dos mais distantes mares.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14867, 'nvi', 'Salmos', 'sl', 65, 6, 'Tu que firmaste os montes pela tua força, pelo teu grande poder.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14868, 'nvi', 'Salmos', 'sl', 65, 7, 'Tu que acalmas o bramido dos mares, o bramido de suas ondas, e o tumulto das nações.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14869, 'nvi', 'Salmos', 'sl', 65, 8, 'Tremem os habitantes das terras distantes diante das tuas maravilhas; do nascente ao poente despertas canções de alegria.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14870, 'nvi', 'Salmos', 'sl', 65, 9, 'Cuidas da terra e a regas; fartamente a enriqueces. Os riachos de Deus transbordam para que nunca falte o trigo, pois assim ordenaste.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14871, 'nvi', 'Salmos', 'sl', 65, 10, 'Encharcas os seus sulcos e aplainas os seus torrões; tu a amoleces com chuvas e abençoas as suas colheitas.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14872, 'nvi', 'Salmos', 'sl', 65, 11, 'Coroas o ano com a tua bondade, e por onde passas emana fartura;');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14873, 'nvi', 'Salmos', 'sl', 65, 12, 'fartura vertem as pastagens do deserto, e as colinas se vestem de alegria.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14874, 'nvi', 'Salmos', 'sl', 65, 13, 'Os campos se revestem de rebanhos e os vales se cobrem de trigo; eles exultam e cantam de alegria!');

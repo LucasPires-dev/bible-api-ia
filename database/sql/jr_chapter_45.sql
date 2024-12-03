@@ -1,0 +1,6 @@
+-- Inserções para Jeremias 45
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (20042, 'nvi', 'Jeremias', 'jr', 45, 1, 'No quarto ano do reinado de Jeoaquim, filho de Josias, rei de Judá, depois que Baruque, filho de Nerias, escreveu num rolo as palavras ditadas por Jeremias, este lhe disse:');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (20043, 'nvi', 'Jeremias', 'jr', 45, 2, '"Assim diz o Senhor, o Deus de Israel, a você, Baruque:');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (20044, 'nvi', 'Jeremias', 'jr', 45, 3, 'Você disse, ‘Ai de mim! O Senhor acrescentou tristeza ao meu sofrimento. Estou exausto de tanto gemer, e não encontro descanso’.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (20045, 'nvi', 'Jeremias', 'jr', 45, 4, 'Mas o Senhor manda-me dizer-lhe: ‘Assim diz o Senhor: Destruirei o que edifiquei e arrancarei o que plantei em toda esta terra.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (20046, 'nvi', 'Jeremias', 'jr', 45, 5, 'E então? Você deveria buscar coisas especiais para você? Não as busque; pois trarei desgraça sobre toda a humanidade’, diz o Senhor, ‘mas eu o deixarei escapar com vida onde quer que você vá’ ".');

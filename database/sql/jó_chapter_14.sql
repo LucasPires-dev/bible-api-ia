@@ -1,0 +1,23 @@
+-- Inserções para Jó 14
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13183, 'nvi', 'Jó', 'jó', 14, 1, '"O homem nascido de mulher vive pouco tempo e passa por muitas dificuldades.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13184, 'nvi', 'Jó', 'jó', 14, 2, 'Brota como a flor e murcha. Vai-se como a sombra passageira; não dura muito.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13185, 'nvi', 'Jó', 'jó', 14, 3, 'Fixas o olhar num homem desses? E o trarás à tua presença para julgamento?');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13186, 'nvi', 'Jó', 'jó', 14, 4, 'Quem pode extrair algo puro da impureza? Ninguém!');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13187, 'nvi', 'Jó', 'jó', 14, 5, 'Os dias do homem estão determinados; tu decretaste o número de seus meses e estabeleceste limites que ele não pode ultrapassar.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13188, 'nvi', 'Jó', 'jó', 14, 6, 'Por isso desvia dele o teu olhar, e deixa-o, até que ele cumpra o seu tempo como trabalhador contratado.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13189, 'nvi', 'Jó', 'jó', 14, 7, '"Para a árvore pelo menos há esperança: se é cortada, torna a brotar, e os seus renovos vingam.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13190, 'nvi', 'Jó', 'jó', 14, 8, 'Suas raízes poderão envelhecer no solo e seu tronco morrer no chão;');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13191, 'nvi', 'Jó', 'jó', 14, 9, 'ainda assim, com o cheiro de água ela brotará e dará ramos como se fosse muda plantada.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13192, 'nvi', 'Jó', 'jó', 14, 10, 'Mas o homem morre, e morto permanece; dá o último suspiro, e deixa de existir.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13193, 'nvi', 'Jó', 'jó', 14, 11, 'Assim como a água desaparece do mar e o leito do rio perde as águas e seca,');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13194, 'nvi', 'Jó', 'jó', 14, 12, 'assim o homem se deita e não se levanta; até quando os céus já não existirem, os homens não acordarão e não serão despertados do seu sono.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13195, 'nvi', 'Jó', 'jó', 14, 13, '"Se tão-somente me escondesses na sepultura e me ocultasses até passar a tua ira! Se tão-somente me impusesses um prazo e depois te lembrasses de mim!');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13196, 'nvi', 'Jó', 'jó', 14, 14, 'Quando um homem morre, acaso tornará a viver? Durante todos os dias do meu árduo labor esperarei pela minha dispensa.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13197, 'nvi', 'Jó', 'jó', 14, 15, 'Chamarás, e eu te responderei; terás anelo pela criatura que as tuas mãos fizeram.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13198, 'nvi', 'Jó', 'jó', 14, 16, 'Por certo contarás então os meus passos, mas não tomarás conhecimento do meu pecado.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13199, 'nvi', 'Jó', 'jó', 14, 17, 'Minhas faltas serão encerradas num saco; tu esconderás a minha iniqüidade.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13200, 'nvi', 'Jó', 'jó', 14, 18, '"Mas, assim como a montanha sofre erosão e desmorona, e a rocha muda de lugar;');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13201, 'nvi', 'Jó', 'jó', 14, 19, 'e assim como a água desgasta as pedras e as torrentes arrastam terra, assim destróis a esperança do homem.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13202, 'nvi', 'Jó', 'jó', 14, 20, 'Tu o subjulgas de uma vez por todas, e ele se vai; alteras a sua fisionomia, e o mandas embora.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13203, 'nvi', 'Jó', 'jó', 14, 21, 'Se honram os seus filhos, ele não fica sabendo; se os humilham, ele não o vê.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13204, 'nvi', 'Jó', 'jó', 14, 22, 'Só sente a dor do seu próprio corpo; só pranteia por si mesmo".');

@@ -1,0 +1,27 @@
+-- Inserções para Salmos 136
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16198, 'nvi', 'Salmos', 'sl', 136, 1, 'Dêem graças ao Senhor, porque ele é bom. O seu amor dura para sempre!');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16199, 'nvi', 'Salmos', 'sl', 136, 2, 'Dêem graças ao Deus dos deuses. O seu amor dura para sempre!');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16200, 'nvi', 'Salmos', 'sl', 136, 3, 'Dêem graças ao Senhor dos senhores. O seu amor dura para sempre!');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16201, 'nvi', 'Salmos', 'sl', 136, 4, 'Ao único que faz grandes maravilhas, O seu amor dura para sempre!');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16202, 'nvi', 'Salmos', 'sl', 136, 5, 'que com habilidade fez os céus, O seu amor dura para sempre!');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16203, 'nvi', 'Salmos', 'sl', 136, 6, 'que estendeu a terra sobre as águas; O seu amor dura para sempre!');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16204, 'nvi', 'Salmos', 'sl', 136, 7, 'Àquele que fez os grandes luminares, O seu amor dura para sempre!');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16205, 'nvi', 'Salmos', 'sl', 136, 8, 'o sol para governar o dia, O seu amor dura para sempre!');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16206, 'nvi', 'Salmos', 'sl', 136, 9, 'a lua e as estrelas para governarem a noite; O seu amor dura para sempre!');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16207, 'nvi', 'Salmos', 'sl', 136, 10, 'Àquele que matou os primogênitos do Egito O seu amor dura para sempre!');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16208, 'nvi', 'Salmos', 'sl', 136, 11, 'e tirou Israel do meio deles O seu amor dura para sempre!');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16209, 'nvi', 'Salmos', 'sl', 136, 12, 'com mão poderosa e braço forte; O seu amor dura para sempre!');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16210, 'nvi', 'Salmos', 'sl', 136, 13, 'Àquele que dividiu o mar Vermelho O seu amor dura para sempre!');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16211, 'nvi', 'Salmos', 'sl', 136, 14, 'e fez Israel atravessá-lo, O seu amor dura para sempre!');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16212, 'nvi', 'Salmos', 'sl', 136, 15, 'mas lançou o faraó e o seu exército no mar Vermelho; O seu amor dura para sempre!');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16213, 'nvi', 'Salmos', 'sl', 136, 16, 'Àquele que conduziu seu povo pelo deserto, O seu amor dura para sempre!');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16214, 'nvi', 'Salmos', 'sl', 136, 17, 'que feriu grandes reis O seu amor dura para sempre!');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16215, 'nvi', 'Salmos', 'sl', 136, 18, 'e matou reis poderosos; O seu amor dura para sempre!');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16216, 'nvi', 'Salmos', 'sl', 136, 19, 'Seom, rei dos amorreus, O seu amor dura para sempre!');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16217, 'nvi', 'Salmos', 'sl', 136, 20, 'e Ogue, rei de Basã, O seu amor dura para sempre!');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16218, 'nvi', 'Salmos', 'sl', 136, 21, 'e deu a terra deles como herança, O seu amor dura para sempre!');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16219, 'nvi', 'Salmos', 'sl', 136, 22, 'como herança ao seu servo Israel; O seu amor dura para sempre!');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16220, 'nvi', 'Salmos', 'sl', 136, 23, 'Àquele que se lembrou de nós quando fomos humilhados O seu amor dura para sempre!');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16221, 'nvi', 'Salmos', 'sl', 136, 24, 'e nos livrou dos nossos adversários; O seu amor dura para sempre!');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16222, 'nvi', 'Salmos', 'sl', 136, 25, 'Àquele que dá alimento a todos os seres vivos. O seu amor dura para sempre!');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16223, 'nvi', 'Salmos', 'sl', 136, 26, 'Dêem graças ao Deus dos céus. O seu amor dura para sempre!');

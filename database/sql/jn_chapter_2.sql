@@ -1,0 +1,11 @@
+-- Inserções para Jonas 2
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (22550, 'nvi', 'Jonas', 'jn', 2, 1, 'Lá de dentro do peixe, Jonas orou ao Senhor, ao seu Deus.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (22551, 'nvi', 'Jonas', 'jn', 2, 2, 'Ele disse: "Em meu desespero clamei ao Senhor, e ele me respondeu. Do ventre da morte gritei por socorro, e ouviste o meu clamor.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (22552, 'nvi', 'Jonas', 'jn', 2, 3, 'Jogaste-me nas profundezas, no coração dos mares; correntezas formavam turbilhão ao meu redor; todas as tuas ondas e vagas passaram sobre mim.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (22553, 'nvi', 'Jonas', 'jn', 2, 4, 'Eu disse: Fui expulso da tua presença; contudo, olharei de novo para o teu santo templo.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (22554, 'nvi', 'Jonas', 'jn', 2, 5, 'As águas agitadas me envolveram, o abismo me cercou, as algas marinhas se enrolaram em minha cabeça.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (22555, 'nvi', 'Jonas', 'jn', 2, 6, 'Afundei até os fundamentos dos montes; à terra cujas trancas estavam me aprisionando para sempre. Mas tu trouxeste a minha vida de volta da cova, ó Senhor meu Deus!');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (22556, 'nvi', 'Jonas', 'jn', 2, 7, '"Quando a minha vida já se apagava, eu me lembrei de ti, Senhor, e a minha oração subiu a ti, ao teu santo templo.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (22557, 'nvi', 'Jonas', 'jn', 2, 8, '"Aqueles que acreditam em ídolos inúteis desprezam a misericórdia.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (22558, 'nvi', 'Jonas', 'jn', 2, 9, 'Mas eu, com um cântico de gratidão, oferecerei sacrifício a ti. O que eu prometi cumprirei totalmente. A salvação vem do Senhor".');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (22559, 'nvi', 'Jonas', 'jn', 2, 10, 'E o Senhor deu ordens ao peixe, e ele vomitou Jonas em terra firme.');

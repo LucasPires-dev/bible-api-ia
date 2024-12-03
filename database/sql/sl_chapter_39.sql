@@ -1,0 +1,14 @@
+-- Inserções para Salmos 39
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14514, 'nvi', 'Salmos', 'sl', 39, 1, 'Eu disse: Vigiarei a minha conduta e não pecarei em palavras; porei mordaça em minha boca enquanto os ímpios estiverem na minha presença.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14515, 'nvi', 'Salmos', 'sl', 39, 2, 'Enquanto me calei resignado, e me contive inutilmente, minha angústia aumentou.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14516, 'nvi', 'Salmos', 'sl', 39, 3, 'Meu coração ardia-me no peito e, enquanto eu meditava, o fogo aumentava; então comecei a dizer:');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14517, 'nvi', 'Salmos', 'sl', 39, 4, 'Mostra-me, Senhor, o fim da minha vida e o número dos meus dias, para que eu saiba quão frágil sou.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14518, 'nvi', 'Salmos', 'sl', 39, 5, 'Deste aos meus dias o comprimento de um palmo; a duração da minha vida é nada diante de ti. De fato, o homem não passa de um sopro. Pausa');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14519, 'nvi', 'Salmos', 'sl', 39, 6, 'Sim, cada um vai e volta como a sombra. Em vão se agita, amontoando riqueza sem saber quem ficará com ela.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14520, 'nvi', 'Salmos', 'sl', 39, 7, 'Mas agora, Senhor, que hei de esperar? Minha esperança está em ti.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14521, 'nvi', 'Salmos', 'sl', 39, 8, 'Livra-me de todas as minhas transgressões; não faças de mim um motivo de zombaria dos tolos.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14522, 'nvi', 'Salmos', 'sl', 39, 9, 'Estou calado! Não posso abrir a boca, pois tu mesmo fizeste isso.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14523, 'nvi', 'Salmos', 'sl', 39, 10, 'Afasta de mim o teu açoite; fui vencido pelo golpe da tua mão.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14524, 'nvi', 'Salmos', 'sl', 39, 11, 'Tu repreendes e disciplinas o homem por causa do seu pecado; como traça destróis o que ele mais valoriza; de fato, o homem não passa de um sopro. Pausa');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14525, 'nvi', 'Salmos', 'sl', 39, 12, 'Ouve a minha oração, Senhor; escuta o meu grito de socorro; não sejas indiferente ao meu lamento. Pois sou para ti um estrangeiro, como foram todos os meus antepassados.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14526, 'nvi', 'Salmos', 'sl', 39, 13, 'Desvia de mim os teus olhos, para que eu volte a ter alegria, antes que eu me vá e deixe de existir.');

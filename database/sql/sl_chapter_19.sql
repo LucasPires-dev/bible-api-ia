@@ -1,0 +1,15 @@
+-- Inserções para Salmos 19
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14170, 'nvi', 'Salmos', 'sl', 19, 1, 'Os céus declaram a glória de Deus; o firmamento proclama a obra das suas mãos.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14171, 'nvi', 'Salmos', 'sl', 19, 2, 'Um dia fala disso a outro dia; uma noite o revela a outra noite.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14172, 'nvi', 'Salmos', 'sl', 19, 3, 'Sem discurso nem palavras, não se ouve a sua voz.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14173, 'nvi', 'Salmos', 'sl', 19, 4, 'Mas a sua voz ressoa por toda a terra, e as suas palavras, até os confins do mundo. Nos céus ele armou uma tenda para o sol,');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14174, 'nvi', 'Salmos', 'sl', 19, 5, 'que é como um noivo que sai de seu aposento, e se lança em sua carreira com a alegria de um herói.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14175, 'nvi', 'Salmos', 'sl', 19, 6, 'Sai de uma extremidade dos céus e faz o seu trajeto até a outra; nada escapa ao seu calor.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14176, 'nvi', 'Salmos', 'sl', 19, 7, 'A lei do Senhor é perfeita, e revigora a alma. Os testemunhos do Senhor são dignos de confiança, e tornam sábios os inexperientes.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14177, 'nvi', 'Salmos', 'sl', 19, 8, 'Os preceitos do Senhor são justos, e dão alegria ao coração. Os mandamentos do Senhor são límpidos, e trazem luz aos olhos.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14178, 'nvi', 'Salmos', 'sl', 19, 9, 'O temor do Senhor é puro, e dura para sempre. As ordenanças do Senhor são verdadeiras, são todas elas justas.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14179, 'nvi', 'Salmos', 'sl', 19, 10, 'São mais desejáveis do que o ouro, do que muito ouro puro; são mais doces do que o mel, do que as gotas do favo.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14180, 'nvi', 'Salmos', 'sl', 19, 11, 'Por elas o teu servo é advertido; há grande recompensa em obedecer-lhes.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14181, 'nvi', 'Salmos', 'sl', 19, 12, 'Quem pode discernir os próprios erros? Absolve-me dos que desconheço!');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14182, 'nvi', 'Salmos', 'sl', 19, 13, 'Também guarda o teu servo dos pecados intencionais; que eles não me dominem! Então serei íntegro, inocente de grande transgressão.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14183, 'nvi', 'Salmos', 'sl', 19, 14, 'Que as palavras da minha boca e a meditação do meu coração sejam agradáveis a ti, Senhor, minha Rocha e meu Resgatador!');

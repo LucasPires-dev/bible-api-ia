@@ -1,0 +1,22 @@
+-- Inserções para Salmos 135
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16177, 'nvi', 'Salmos', 'sl', 135, 1, 'Aleluia! Louvem o nome do Senhor; louvem-no, servos do Senhor,');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16178, 'nvi', 'Salmos', 'sl', 135, 2, 'vocês, que servem na casa do Senhor, nos pátios da casa de nosso Deus.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16179, 'nvi', 'Salmos', 'sl', 135, 3, 'Louvem o Senhor, pois o Senhor é bom; cantem louvores ao seu nome, pois é nome amável.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16180, 'nvi', 'Salmos', 'sl', 135, 4, 'Porque o Senhor escolheu a Jacó, a Israel como seu tesouro pessoal.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16181, 'nvi', 'Salmos', 'sl', 135, 5, 'Na verdade, sei que o Senhor é grande, que o nosso Soberano é maior do que todos os deuses.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16182, 'nvi', 'Salmos', 'sl', 135, 6, 'O Senhor faz tudo o que lhe agrada, nos céus e na terra, nos mares e em todas as suas profundezas.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16183, 'nvi', 'Salmos', 'sl', 135, 7, 'Ele traz as nuvens desde os confins da terra; envia os relâmpagos que acompanham a chuva e faz que o vento saia dos seus depósitos.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16184, 'nvi', 'Salmos', 'sl', 135, 8, 'Foi ele que matou os primogênitos do Egito, tanto dos homens como dos animais.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16185, 'nvi', 'Salmos', 'sl', 135, 9, 'Ele realizou em pleno Egito sinais e maravilhas, contra o faraó e todos os seus conselheiros.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16186, 'nvi', 'Salmos', 'sl', 135, 10, 'Foi ele quem feriu muitas nações e matou reis poderosos:');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16187, 'nvi', 'Salmos', 'sl', 135, 11, 'Seom, rei dos amorreus, Ogue, rei de Basã, e todos os reinos de Canaã;');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16188, 'nvi', 'Salmos', 'sl', 135, 12, 'e deu a terra deles como herança, como herança a seu povo Israel.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16189, 'nvi', 'Salmos', 'sl', 135, 13, 'O teu nome, Senhor, permanece para sempre, a tua fama, Senhor, por todas as gerações!');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16190, 'nvi', 'Salmos', 'sl', 135, 14, 'O Senhor defenderá o seu povo e terá compaixão dos seus servos.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16191, 'nvi', 'Salmos', 'sl', 135, 15, 'Os ídolos das nações não passam de prata e ouro, feitos por mãos humanas.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16192, 'nvi', 'Salmos', 'sl', 135, 16, 'Têm boca, mas não podem falar, olhos, mas não podem ver;');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16193, 'nvi', 'Salmos', 'sl', 135, 17, 'têm ouvidos, mas não podem escutar, nem há respiração em sua boca.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16194, 'nvi', 'Salmos', 'sl', 135, 18, 'Tornem-se como eles aqueles que os fazem e todos os que neles confiam.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16195, 'nvi', 'Salmos', 'sl', 135, 19, 'Bendiga o Senhor, ó israelitas! Bendiga o Senhor, ó sacerdotes!');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16196, 'nvi', 'Salmos', 'sl', 135, 20, 'Bendiga o Senhor, ó levitas! Bendigam o Senhor os que temem ao Senhor!');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16197, 'nvi', 'Salmos', 'sl', 135, 21, 'Bendito seja o Senhor desde Sião, aquele que habita em Jerusalém. Aleluia!');

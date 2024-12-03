@@ -1,0 +1,16 @@
+-- Inserções para 1 Timóteo 2
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (29718, 'nvi', '1 Timóteo', '1tm', 2, 1, 'Antes de tudo, recomendo que se façam súplicas, orações, intercessões e ação de graças por todos os homens;');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (29719, 'nvi', '1 Timóteo', '1tm', 2, 2, 'pelos reis e por todos os que exercem autoridade, para que tenhamos uma vida tranqüila e pacífica, com toda a piedade e dignidade.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (29720, 'nvi', '1 Timóteo', '1tm', 2, 3, 'Isso é bom e agradável perante Deus, nosso Salvador,');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (29721, 'nvi', '1 Timóteo', '1tm', 2, 4, 'que deseja que todos os homens sejam salvos e cheguem ao conhecimento da verdade.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (29722, 'nvi', '1 Timóteo', '1tm', 2, 5, 'Pois há um só Deus e um só mediador entre Deus e os homens: o homem Cristo Jesus,');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (29723, 'nvi', '1 Timóteo', '1tm', 2, 6, 'o qual se entregou a si mesmo como resgate por todos. Esse foi o testemunho dado em seu próprio tempo.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (29724, 'nvi', '1 Timóteo', '1tm', 2, 7, 'Para isso fui designado pregador e apóstolo mestre da verdadeira fé aos gentios. Digo-lhes a verdade, não minto.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (29725, 'nvi', '1 Timóteo', '1tm', 2, 8, 'Quero, pois, que os homens orem em todo lugar, levantando mãos santas, sem ira e sem discussões.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (29726, 'nvi', '1 Timóteo', '1tm', 2, 9, 'Da mesma forma quero que as mulheres se vistam modestamente, com decência e discrição, não se adornando com tranças, nem ouro, nem pérolas, nem roupas caras,');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (29727, 'nvi', '1 Timóteo', '1tm', 2, 10, 'mas com boas obras, como convém a mulheres que professam adorar a Deus.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (29728, 'nvi', '1 Timóteo', '1tm', 2, 11, 'A mulher deve aprender em silêncio, com toda a sujeição.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (29729, 'nvi', '1 Timóteo', '1tm', 2, 12, 'Não permito que a mulher ensine, nem que tenha autoridade sobre o homem. Esteja, porém, em silêncio.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (29730, 'nvi', '1 Timóteo', '1tm', 2, 13, 'Porque primeiro foi formado Adão, e depois Eva.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (29731, 'nvi', '1 Timóteo', '1tm', 2, 14, 'E Adão não foi enganado, mas sim a mulher, que, tendo sido enganada, tornou-se transgressora.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (29732, 'nvi', '1 Timóteo', '1tm', 2, 15, 'Entretanto, a mulher será salva dando à luz filhos — se elas permanecerem na fé, no amor e na santidade, com bom senso.');

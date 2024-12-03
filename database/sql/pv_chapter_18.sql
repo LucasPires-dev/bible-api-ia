@@ -1,0 +1,25 @@
+-- Inserções para Provérbios 18
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16903, 'nvi', 'Provérbios', 'pv', 18, 1, 'Quem se isola, busca interesses egoístas, e se rebela contra a sensatez.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16904, 'nvi', 'Provérbios', 'pv', 18, 2, 'O tolo não tem prazer no entendimento, mas sim em expor os seus pensamentos.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16905, 'nvi', 'Provérbios', 'pv', 18, 3, 'Com a impiedade, vem o desprezo, e com a desonra vem a vergonha.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16906, 'nvi', 'Provérbios', 'pv', 18, 4, 'As palavras do homem são águas profundas, mas a fonte da sabedoria é um ribeiro que transborda.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16907, 'nvi', 'Provérbios', 'pv', 18, 5, 'Não é bom favorecer os ímpios para privar da justiça o justo.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16908, 'nvi', 'Provérbios', 'pv', 18, 6, 'As palavras do tolo provocam briga, e a sua conversa atrai açoites.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16909, 'nvi', 'Provérbios', 'pv', 18, 7, 'A conversa do tolo é a sua desgraça, e seus lábios são uma armadilha para a sua alma.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16910, 'nvi', 'Provérbios', 'pv', 18, 8, 'As palavras do caluniador são como petiscos deliciosos; descem até o íntimo do homem.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16911, 'nvi', 'Provérbios', 'pv', 18, 9, 'Quem relaxa em seu trabalho é irmão do que o destrói.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16912, 'nvi', 'Provérbios', 'pv', 18, 10, 'O nome do Senhor é uma torre forte; os justos correm para ela e estão seguros.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16913, 'nvi', 'Provérbios', 'pv', 18, 11, 'A riqueza dos ricos é a sua cidade fortificada, eles a imaginam como um muro que é impossível escalar.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16914, 'nvi', 'Provérbios', 'pv', 18, 12, 'Antes da sua queda o coração do homem se envaidece, mas a humildade antecede a honra.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16915, 'nvi', 'Provérbios', 'pv', 18, 13, 'Quem responde antes de ouvir, comete insensatez e passa vergonha.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16916, 'nvi', 'Provérbios', 'pv', 18, 14, 'O espírito do homem o sustenta na doença, mas o espírito deprimido, quem o levantará?');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16917, 'nvi', 'Provérbios', 'pv', 18, 15, 'O coração do que tem discernimento adquire conhecimento; os ouvidos dos sábios saem à sua procura.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16918, 'nvi', 'Provérbios', 'pv', 18, 16, 'O presente abre o caminho para aquele que o entrega e o conduz à presença dos grandes.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16919, 'nvi', 'Provérbios', 'pv', 18, 17, 'O primeiro a apresentar a sua causa parece ter razão, até que outro venha à frente e o questione.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16920, 'nvi', 'Provérbios', 'pv', 18, 18, 'Lançar sortes resolve contendas e decide questões entre poderosos.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16921, 'nvi', 'Provérbios', 'pv', 18, 19, 'Um irmão ofendido é mais inacessível do que uma cidade fortificada, e as discussões são como as portas trancadas de uma cidadela.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16922, 'nvi', 'Provérbios', 'pv', 18, 20, 'Do fruto da boca enche-se o estômago do homem; o produto dos lábios o satisfaz.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16923, 'nvi', 'Provérbios', 'pv', 18, 21, 'A língua tem poder sobre a vida e sobre a morte; os que gostam de usá-la comerão do seu fruto.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16924, 'nvi', 'Provérbios', 'pv', 18, 22, 'Quem encontra uma esposa encontra algo excelente; recebeu uma bênção do Senhor.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16925, 'nvi', 'Provérbios', 'pv', 18, 23, 'O pobre implora misericórdia, mas o rico responde com aspereza.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (16926, 'nvi', 'Provérbios', 'pv', 18, 24, 'Quem tem muitos amigos pode chegar à ruína, mas existe amigo mais apegado que um irmão.');

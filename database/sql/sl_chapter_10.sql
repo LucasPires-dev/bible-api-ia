@@ -1,0 +1,19 @@
+-- Inserções para Salmos 10
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14043, 'nvi', 'Salmos', 'sl', 10, 1, 'Senhor, por que estás tão longe? Por que te escondes em tempos de angústia?');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14044, 'nvi', 'Salmos', 'sl', 10, 2, 'Em sua arrogância o ímpio persegue o pobre, que é apanhado em suas tramas.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14045, 'nvi', 'Salmos', 'sl', 10, 3, 'Ele se gaba de sua própria cobiça e, em sua ganância, amaldiçoa e insulta o Senhor.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14046, 'nvi', 'Salmos', 'sl', 10, 4, 'Em sua presunção o ímpio não o busca; não há lugar para Deus em nenhum dos seus planos.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14047, 'nvi', 'Salmos', 'sl', 10, 5, 'Os seus caminhos prosperam sempre; tão acima da sua compreensão estão as tuas leis que ele faz pouco caso de todos os seus adversários,');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14048, 'nvi', 'Salmos', 'sl', 10, 6, 'pensando consigo mesmo: "Nada me abalará! Desgraça alguma me atingirá, nem a mim nem aos meus descendentes".');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14049, 'nvi', 'Salmos', 'sl', 10, 7, 'Sua boca está cheia de maldições, mentiras e ameaças; violência e maldade estão em sua língua.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14050, 'nvi', 'Salmos', 'sl', 10, 8, 'Fica à espreita perto dos povoados; em emboscadas mata os inocentes, procurando às escondidas as suas vítimas.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14051, 'nvi', 'Salmos', 'sl', 10, 9, 'Fica à espreita como o leão escondido; fica à espreita para apanhar o necessitado; apanha o necessitado e o arrasta para a sua rede.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14052, 'nvi', 'Salmos', 'sl', 10, 10, 'Agachado, fica de tocaia; as suas vítimas caem em seu poder.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14053, 'nvi', 'Salmos', 'sl', 10, 11, 'Pensa consigo mesmo: "Deus se esqueceu; escondeu o rosto e nunca verá isto".');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14054, 'nvi', 'Salmos', 'sl', 10, 12, 'Levanta-te, Senhor! Ergue a tua mão, ó Deus! Não te esqueças dos necessitados.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14055, 'nvi', 'Salmos', 'sl', 10, 13, 'Por que o ímpio insulta a Deus, dizendo no seu íntimo: "De nada me pedirás contas! "?');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14056, 'nvi', 'Salmos', 'sl', 10, 14, 'Mas tu enxergas o sofrimento e a dor; observa-os para tomá-los em tuas mãos. A vítima deles entrega-se a ti; tu és o protetor do órfão.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14057, 'nvi', 'Salmos', 'sl', 10, 15, 'Quebra o braço do ímpio e do perverso, pede contas de sua impiedade até que dela nada mais se ache.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14058, 'nvi', 'Salmos', 'sl', 10, 16, 'O Senhor é rei para todo o sempre; da sua terra desapareceram os outros povos.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14059, 'nvi', 'Salmos', 'sl', 10, 17, 'Tu, Senhor, ouves a súplica dos necessitados; tu os reanimas e atendes ao seu clamor.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14060, 'nvi', 'Salmos', 'sl', 10, 18, 'Defendes o órfão e o oprimido, a fim de que o homem, que é pó, já não cause terror.');

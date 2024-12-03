@@ -1,0 +1,23 @@
+-- Inserções para Salmos 38
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14492, 'nvi', 'Salmos', 'sl', 38, 1, 'Senhor, não me repreendas no teu furor nem me disciplines na tua ira.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14493, 'nvi', 'Salmos', 'sl', 38, 2, 'Pois as tuas flechas me atravessaram, e a tua mão me atingiu.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14494, 'nvi', 'Salmos', 'sl', 38, 3, 'Por causa de tua ira todo o meu corpo está doente; não há saúde nos meus ossos por causa do meu pecado.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14495, 'nvi', 'Salmos', 'sl', 38, 4, 'As minhas culpas me afogam; são como um fardo pesado e insuportável.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14496, 'nvi', 'Salmos', 'sl', 38, 5, 'Minhas feridas cheiram mal e supuram por causa da minha insensatez.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14497, 'nvi', 'Salmos', 'sl', 38, 6, 'Estou encurvado e muitíssimo abatido; o dia todo saio vagueando e pranteando.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14498, 'nvi', 'Salmos', 'sl', 38, 7, 'Estou ardendo em febre; todo o meu corpo está doente.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14499, 'nvi', 'Salmos', 'sl', 38, 8, 'Sinto-me muito fraco e totalmente esmagado; meu coração geme de angústia.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14500, 'nvi', 'Salmos', 'sl', 38, 9, 'Senhor, diante de ti estão todos os meus anseios; o meu suspiro não te é oculto.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14501, 'nvi', 'Salmos', 'sl', 38, 10, 'Meu coração palpita, as forças me faltam; até a luz dos meus olhos se foi.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14502, 'nvi', 'Salmos', 'sl', 38, 11, 'Meus amigos e companheiros me evitam por causa da doença que me aflige; ficam longe de mim os meus vizinhos.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14503, 'nvi', 'Salmos', 'sl', 38, 12, 'Os que desejam matar-me preparam armadilhas, os que me querem prejudicar anunciam a minha ruína; passam o dia planejando traição.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14504, 'nvi', 'Salmos', 'sl', 38, 13, 'Como um surdo, não ouço, como um mudo, não abro a boca.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14505, 'nvi', 'Salmos', 'sl', 38, 14, 'Fiz-me como quem não ouve, e em cuja boca não há resposta.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14506, 'nvi', 'Salmos', 'sl', 38, 15, 'Senhor, em ti espero; Tu me responderás, ó Senhor meu Deus!');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14507, 'nvi', 'Salmos', 'sl', 38, 16, 'Pois eu disse: "Não permitas que eles se divirtam à minha custa, nem triunfem sobre mim quando eu tropeçar".');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14508, 'nvi', 'Salmos', 'sl', 38, 17, 'Estou a ponto de cair, e a minha dor está sempre comigo.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14509, 'nvi', 'Salmos', 'sl', 38, 18, 'Confesso a minha culpa; em angústia estou por causa do meu pecado.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14510, 'nvi', 'Salmos', 'sl', 38, 19, 'Meus inimigos, porém, são muitos e poderosos; é grande o número dos que me odeiam sem motivo.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14511, 'nvi', 'Salmos', 'sl', 38, 20, 'Os que me retribuem o bem com o mal caluniam-me porque é o bem que procuro.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14512, 'nvi', 'Salmos', 'sl', 38, 21, 'Senhor, não me abandones! Não fiques longe de mim, ó meu Deus!');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14513, 'nvi', 'Salmos', 'sl', 38, 22, 'Apressa-te a ajudar-me, Senhor, meu Salvador!');

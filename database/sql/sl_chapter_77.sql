@@ -1,0 +1,21 @@
+-- Inserções para Salmos 77
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15095, 'nvi', 'Salmos', 'sl', 77, 1, 'Clamo a Deus por socorro; clamo a Deus que me escute.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15096, 'nvi', 'Salmos', 'sl', 77, 2, 'Quando estou angustiado, busco o Senhor; de noite estendo as mãos sem cessar; a minha alma está inconsolável!');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15097, 'nvi', 'Salmos', 'sl', 77, 3, 'Lembro-me de ti, ó Deus, e suspiro; começo a meditar, e o meu espírito desfalece. Pausa');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15098, 'nvi', 'Salmos', 'sl', 77, 4, 'Não me permites fechar os olhos; tão inquieto estou que não consigo falar.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15099, 'nvi', 'Salmos', 'sl', 77, 5, 'Fico a pensar nos dias que se foram, nos anos há muito passados;');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15100, 'nvi', 'Salmos', 'sl', 77, 6, 'de noite recordo minhas canções. O meu coração medita, e o meu espírito pergunta:');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15101, 'nvi', 'Salmos', 'sl', 77, 7, '"Irá o Senhor rejeitar-nos para sempre? Jamais tornará a mostrar-nos o seu favor?');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15102, 'nvi', 'Salmos', 'sl', 77, 8, 'Desapareceu para sempre o seu amor? Acabou-se a sua promessa?');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15103, 'nvi', 'Salmos', 'sl', 77, 9, 'Esqueceu-se Deus de ser misericordioso? Em sua ira refreou sua compaixão? " Pausa');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15104, 'nvi', 'Salmos', 'sl', 77, 10, 'Então pensei: a razão da minha dor é que a mão direita do Altíssimo não age mais.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15105, 'nvi', 'Salmos', 'sl', 77, 11, 'Recordarei os feitos do Senhor; recordarei os teus antigos milagres.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15106, 'nvi', 'Salmos', 'sl', 77, 12, 'Meditarei em todas as tuas obras e considerarei todos os teus feitos.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15107, 'nvi', 'Salmos', 'sl', 77, 13, 'Teus caminhos, ó Deus, são santos. Que deus é tão grande como o nosso Deus?');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15108, 'nvi', 'Salmos', 'sl', 77, 14, 'Tu és o Deus que realiza milagres; mostras o teu poder entre os povos.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15109, 'nvi', 'Salmos', 'sl', 77, 15, 'Com o teu braço forte resgataste o teu povo, os descendentes de Jacó e de José. Pausa');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15110, 'nvi', 'Salmos', 'sl', 77, 16, 'As águas te viram, ó Deus, as águas te viram e se contorceram; até os abismos estremeceram.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15111, 'nvi', 'Salmos', 'sl', 77, 17, 'As nuvens despejaram chuvas, ressoou nos céus o trovão; as tuas flechas reluziam em todas as direções.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15112, 'nvi', 'Salmos', 'sl', 77, 18, 'No redemoinho, estrondou o teu trovão, os teus relâmpagos iluminaram o mundo; a terra tremeu e sacudiu-se.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15113, 'nvi', 'Salmos', 'sl', 77, 19, 'A tua vereda passou pelo mar, o teu caminho pelas águas poderosas, e ninguém viu as tuas pegadas.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15114, 'nvi', 'Salmos', 'sl', 77, 20, 'Guiaste o teu povo como a um rebanho pela mão de Moisés e de Arão.');

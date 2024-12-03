@@ -1,0 +1,23 @@
+-- Inserções para Salmos 25
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14253, 'nvi', 'Salmos', 'sl', 25, 1, 'A ti, Senhor, elevo a minha alma.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14254, 'nvi', 'Salmos', 'sl', 25, 2, 'Em ti confio, ó meu Deus. Não deixes que eu seja humilhado, nem que os meus inimigos triunfem sobre mim!');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14255, 'nvi', 'Salmos', 'sl', 25, 3, 'Nenhum dos que esperam em ti ficará decepcionado; decepcionados ficarão aqueles que, sem motivo, agem traiçoeiramente.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14256, 'nvi', 'Salmos', 'sl', 25, 4, 'Mostra-me, Senhor, os teus caminhos, ensina-me as tuas veredas;');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14257, 'nvi', 'Salmos', 'sl', 25, 5, 'guia-me com a tua verdade e ensina-me, pois tu és Deus, meu Salvador, e a minha esperança está em ti o tempo todo.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14258, 'nvi', 'Salmos', 'sl', 25, 6, 'Lembra-te, Senhor, da tua compaixão e da tua misericórdia, que tens mostrado desde a antigüidade.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14259, 'nvi', 'Salmos', 'sl', 25, 7, 'Não te lembres dos pecados e transgressões da minha juventude; conforme a tua misericórdia, lembra-te de mim, pois tu, Senhor, és bom.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14260, 'nvi', 'Salmos', 'sl', 25, 8, 'Bom e justo é o Senhor; por isso mostra o caminho aos pecadores.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14261, 'nvi', 'Salmos', 'sl', 25, 9, 'Conduz os humildes na justiça e lhes ensina o seu caminho.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14262, 'nvi', 'Salmos', 'sl', 25, 10, 'Todos os caminhos do Senhor são amor e fidelidade para com os que cumprem os preceitos da sua aliança.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14263, 'nvi', 'Salmos', 'sl', 25, 11, 'Por amor do teu nome, Senhor, perdoa o meu pecado, que é tão grande!');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14264, 'nvi', 'Salmos', 'sl', 25, 12, 'Quem é o homem que teme o Senhor? Ele o instruirá no caminho que deve seguir.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14265, 'nvi', 'Salmos', 'sl', 25, 13, 'Viverá em prosperidade, e os seus descendentes herdarão a terra.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14266, 'nvi', 'Salmos', 'sl', 25, 14, 'O Senhor confia os seus segredos aos que o temem, e os leva a conhecer a sua aliança.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14267, 'nvi', 'Salmos', 'sl', 25, 15, 'Os meus olhos estão sempre voltados para o Senhor, pois só ele tira os meus pés da armadilha.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14268, 'nvi', 'Salmos', 'sl', 25, 16, 'Volta-te para mim e tem misericórdia de mim, pois estou só e aflito.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14269, 'nvi', 'Salmos', 'sl', 25, 17, 'As angústias do meu coração se multiplicaram; liberta-me da minha aflição.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14270, 'nvi', 'Salmos', 'sl', 25, 18, 'Olha para a minha tribulação e o meu sofrimento, e perdoa todos os meus pecados.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14271, 'nvi', 'Salmos', 'sl', 25, 19, 'Vê como aumentaram os meus inimigos e com que fúria me odeiam!');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14272, 'nvi', 'Salmos', 'sl', 25, 20, 'Guarda a minha vida e livra-me! Não me deixes decepcionado, pois eu me refugio em ti.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14273, 'nvi', 'Salmos', 'sl', 25, 21, 'Que a integridade e a retidão me protejam, porque a minha esperança está em ti.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (14274, 'nvi', 'Salmos', 'sl', 25, 22, 'Ó Deus, liberta Israel de todas as suas aflições!');

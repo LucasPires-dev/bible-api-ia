@@ -1,0 +1,13 @@
+-- Inserções para Salmos 5
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13975, 'nvi', 'Salmos', 'sl', 5, 1, 'Escuta, Senhor, as minhas palavras, considera o meu gemer.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13976, 'nvi', 'Salmos', 'sl', 5, 2, 'Atenta para o meu grito de socorro, meu Rei e meu Deus, pois é a ti que imploro.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13977, 'nvi', 'Salmos', 'sl', 5, 3, 'De manhã ouves, Senhor, o meu clamor; de manhã te apresento a minha oração e aguardo com esperança.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13978, 'nvi', 'Salmos', 'sl', 5, 4, 'Tu não és um Deus que tenha prazer na injustiça; contigo o mal não pode habitar.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13979, 'nvi', 'Salmos', 'sl', 5, 5, 'Os arrogantes não são aceitos na tua presença; odeias todos os que praticam o mal.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13980, 'nvi', 'Salmos', 'sl', 5, 6, 'Destróis os mentirosos; os assassinos e os traiçoeiros o Senhor detesta.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13981, 'nvi', 'Salmos', 'sl', 5, 7, 'Eu, porém, pelo teu grande amor, entrarei em tua casa; com temor me inclinarei para o teu santo templo.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13982, 'nvi', 'Salmos', 'sl', 5, 8, 'Conduze-me, Senhor, na tua justiça, por causa dos meus inimigos; aplaina o teu caminho diante de mim.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13983, 'nvi', 'Salmos', 'sl', 5, 9, 'Nos lábios deles não há palavra confiável; suas mentes só tramam destruição. Suas gargantas são um túmulo aberto; com suas línguas enganam sutilmente.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13984, 'nvi', 'Salmos', 'sl', 5, 10, 'Condena-os, ó Deus! Caiam eles por suas próprias maquinações. Expulsa-os por causa dos seus muitos crimes, pois se rebelaram contra ti.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13985, 'nvi', 'Salmos', 'sl', 5, 11, 'Alegrem-se, porém, todos os que se refugiam em ti; cantem sempre de alegria! Estende sobre eles a tua proteção. Em ti exultem os que amam o teu nome.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13986, 'nvi', 'Salmos', 'sl', 5, 12, 'Pois tu, Senhor, abençoas o justo; o teu favor o protege como um escudo.');

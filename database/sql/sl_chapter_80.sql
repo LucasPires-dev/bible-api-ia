@@ -1,0 +1,20 @@
+-- Inserções para Salmos 80
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15200, 'nvi', 'Salmos', 'sl', 80, 1, 'Escuta-nos, Pastor de Israel, tu, que conduzes a José como a um rebanho; tu, que tens o teu trono sobre os querubins, manifesta o teu esplendor');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15201, 'nvi', 'Salmos', 'sl', 80, 2, 'diante de Efraim, Benjamim e Manassés. Desperta o teu poder, e vem salvar-nos!');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15202, 'nvi', 'Salmos', 'sl', 80, 3, 'Restaura-nos, ó Deus! Faze resplandecer sobre nós o teu rosto, para que sejamos salvos.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15203, 'nvi', 'Salmos', 'sl', 80, 4, 'Ó Senhor, Deus dos Exércitos, até quando arderá a tua ira contra as orações do teu povo?');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15204, 'nvi', 'Salmos', 'sl', 80, 5, 'Tu o alimentaste com pão de lágrimas e o fizeste beber copos de lágrimas.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15205, 'nvi', 'Salmos', 'sl', 80, 6, 'Fizeste de nós um motivo de disputas entre as nações vizinhas, e os nossos inimigos caçoam de nós.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15206, 'nvi', 'Salmos', 'sl', 80, 7, 'Restaura-nos, ó Deus dos Exércitos; faze resplandecer sobre nós o teu rosto, para que sejamos salvos.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15207, 'nvi', 'Salmos', 'sl', 80, 8, 'Do Egito trouxeste uma videira; expulsaste as nações e a plantaste.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15208, 'nvi', 'Salmos', 'sl', 80, 9, 'Limpaste o terreno, ela lançou raízes e encheu a terra.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15209, 'nvi', 'Salmos', 'sl', 80, 10, 'Os montes foram cobertos pela sua sombra, e os mais altos cedros, pelos seus ramos.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15210, 'nvi', 'Salmos', 'sl', 80, 11, 'Seus ramos se estenderam até o Mar, e os seus brotos, até o Rio.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15211, 'nvi', 'Salmos', 'sl', 80, 12, 'Por que derrubaste as suas cercas, permitindo que todos os que passam apanhem as suas uvas?');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15212, 'nvi', 'Salmos', 'sl', 80, 13, 'Javalis da floresta a devastam e as criaturas do campo dela se alimentam.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15213, 'nvi', 'Salmos', 'sl', 80, 14, 'Volta-te para nós, ó Deus dos Exércitos! Dos altos céus olha e vê! Toma conta desta videira,');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15214, 'nvi', 'Salmos', 'sl', 80, 15, 'da raiz que a tua mão direita plantou, do filho que para ti fizeste crescer!');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15215, 'nvi', 'Salmos', 'sl', 80, 16, 'Tua videira foi derrubada; como lixo, foi consumida pelo fogo. Pela tua repreensão perece o teu povo!');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15216, 'nvi', 'Salmos', 'sl', 80, 17, 'Repouse a tua mão sobre aquele que puseste à tua mão direita, o filho do homem que para ti fizeste crescer.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15217, 'nvi', 'Salmos', 'sl', 80, 18, 'Então não nos desviaremos de ti; vivifica-nos, e invocaremos o teu nome.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (15218, 'nvi', 'Salmos', 'sl', 80, 19, 'Restaura-nos, ó Senhor, Deus dos Exércitos; faze resplandecer sobre nós o teu rosto, para que sejamos salvos.');

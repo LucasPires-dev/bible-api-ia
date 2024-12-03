@@ -1,0 +1,25 @@
+-- Inserções para Jó 40
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13866, 'nvi', 'Jó', 'jó', 40, 1, 'O Senhor disse a Jó:');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13867, 'nvi', 'Jó', 'jó', 40, 2, '"Aquele que contende com o Todo-poderoso poderá repreendê-lo? Que responda a Deus aquele que o acusa! "');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13868, 'nvi', 'Jó', 'jó', 40, 3, 'Então Jó respondeu ao Senhor:');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13869, 'nvi', 'Jó', 'jó', 40, 4, '"Sou indigno; como posso responder-te? Ponho a mão sobre a minha boca.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13870, 'nvi', 'Jó', 'jó', 40, 5, 'Falei uma vez, mas não tenho resposta; sim, duas vezes, mas não direi mais nada".');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13871, 'nvi', 'Jó', 'jó', 40, 6, 'Depois, o Senhor falou a Jó do meio da tempestade:');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13872, 'nvi', 'Jó', 'jó', 40, 7, '"Prepare-se como simples homem que é; eu lhe farei perguntas, e você me responderá.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13873, 'nvi', 'Jó', 'jó', 40, 8, '"Você vai pôr em dúvida a minha justiça? Vai condenar-me para justificar-se?');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13874, 'nvi', 'Jó', 'jó', 40, 9, 'Seu braço é como o de Deus, e sua voz pode trovejar como a dele?');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13875, 'nvi', 'Jó', 'jó', 40, 10, 'Adorne-se, então, de esplendor e glória, e vista-se de majestade e honra.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13876, 'nvi', 'Jó', 'jó', 40, 11, 'Derrame a fúria da sua ira, olhe para todo orgulhoso e lance-o por terra,');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13877, 'nvi', 'Jó', 'jó', 40, 12, 'olhe para todo orgulhoso e humilhe-o, esmague os ímpios onde estiverem.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13878, 'nvi', 'Jó', 'jó', 40, 13, 'Enterre-os todos juntos no pó; encubra os rostos deles no túmulo.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13879, 'nvi', 'Jó', 'jó', 40, 14, 'Então admitirei que a sua mão direita pode salvar você.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13880, 'nvi', 'Jó', 'jó', 40, 15, '"Veja o Beemote que criei quando criei você e que come de capim como o boi.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13881, 'nvi', 'Jó', 'jó', 40, 16, 'Que força ele tem em seus lombos! Que poder nos músculos do seu ventre!');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13882, 'nvi', 'Jó', 'jó', 40, 17, 'A cauda dele balança como o cedro; os nervos de suas coxas são firmemente entrelaçados.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13883, 'nvi', 'Jó', 'jó', 40, 18, 'Seus ossos são canos de bronze, seus membros são varas de ferro.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13884, 'nvi', 'Jó', 'jó', 40, 19, 'Ele ocupa o primeiro lugar entre as obras de Deus. No entanto, o seu Criador pode chegar a ele com sua espada.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13885, 'nvi', 'Jó', 'jó', 40, 20, 'Os montes lhe oferecem os seus produtos, e todos os animais selvagens brincam por perto.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13886, 'nvi', 'Jó', 'jó', 40, 21, 'Sob os lotos se deita, oculto entre os juncos do brejo.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13887, 'nvi', 'Jó', 'jó', 40, 22, 'Os lotos o escondem à sua sombra; os salgueiros junto ao regato o cercam.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13888, 'nvi', 'Jó', 'jó', 40, 23, 'Quando o rio se enfurece, ele não se abala; mesmo que o Jordão encrespe as ondas contra a sua boca, ele se mantém calmo.');
+INSERT INTO bible (id, version, book, abbrev, chapter, verse, text) VALUES (13889, 'nvi', 'Jó', 'jó', 40, 24, 'Poderá alguém capturá-lo pelos olhos, ou prendê-lo em armadilha e enganchá-lo pelo nariz?');
